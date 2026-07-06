@@ -318,13 +318,13 @@
           <button class="btn btn-cutoff" data-cutoff-job="${job.id}"><span class="btn-icon">📊</span> View Cutoffs</button>
           ${job.notification_pdf_url ? `<a href="${escapeHtml(job.notification_pdf_url)}" target="_blank" rel="noopener" class="btn btn-pdf"><span class="btn-icon">📄</span> PDF</a>` : ''}
           <button class="btn btn-bookmark ${saved ? 'saved' : ''}" data-bookmark-job='${JSON.stringify({ id: job.id, exam_name: job.exam_name, organization: job.organization, post_name: job.post_name, job_domain: job.job_domain, status: job.status, application_last_date: job.application_last_date, qualification: job.qualification, experience_required: job.experience_required, pay_scale: job.pay_scale, location: job.location, vacancies: job.vacancies, application_fee: job.application_fee, apply_link: job.apply_link, portal_url: job.portal_url, notification_pdf_url: job.notification_pdf_url, portal_instructions: job.portal_instructions, notification_date: job.notification_date, application_start_date: job.application_start_date, exam_date: job.exam_date, age_limit: job.age_limit, organization_full: job.organization_full, total_marks: job.total_marks, source_url: job.source_url })}'><span class="bookmark-icon">${saved ? '⭐' : '🔖'}</span></button>
-          <button class="btn btn-share" data-share-job="${job.id}" style="position:relative;"><span class="btn-icon">📤</span>
+          <div class="btn btn-share" data-share-job="${job.id}" style="position:relative;"><span class="btn-icon">📤</span>
             <div class="share-popup" id="share-popup-${job.id}">
-              <button class="share-option" data-share-action="whatsapp" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\n${job.apply_link || job.portal_url || ''}"><span class="share-option-icon">💬</span> WhatsApp</button>
-              <button class="share-option" data-share-action="telegram" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\n${job.apply_link || job.portal_url || ''}"><span class="share-option-icon">✈️</span> Telegram</button>
-              <button class="share-option" data-share-action="copy" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\nApply: ${job.apply_link || job.portal_url || ''}\nDeadline: ${formatDate(job.application_last_date)}"><span class="share-option-icon">📋</span> Copy Text</button>
+              <div class="share-option" data-share-action="whatsapp" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\n${job.apply_link || job.portal_url || ''}"><span class="share-option-icon">💬</span> WhatsApp</div>
+              <div class="share-option" data-share-action="telegram" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\n${job.apply_link || job.portal_url || ''}"><span class="share-option-icon">✈️</span> Telegram</div>
+              <div class="share-option" data-share-action="copy" data-share-text="${escapeHtml(job.exam_name)} — ${escapeHtml(job.organization)}\nApply: ${job.apply_link || job.portal_url || ''}\nDeadline: ${formatDate(job.application_last_date)}"><span class="share-option-icon">📋</span> Copy Text</div>
             </div>
-          </button>
+          </div>
         </div>
         <div class="job-cutoffs" id="cutoffs-${job.id}"></div>
       `;
