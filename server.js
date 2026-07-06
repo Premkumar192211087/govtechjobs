@@ -50,9 +50,19 @@ app.get('*', (req, res) => {
 async function start() {
   try {
     await db.initDatabase();
+    
+    // Initialize scraper scheduler and run scrapers asynchronously
+    const { initScheduler, runAllScrapers } = require('./scrapers/scheduler');
+    initScheduler();
+    
     app.listen(PORT, () => {
       logger.info('Server', `GovTechJobs running on http://localhost:${PORT}`);
       logger.info('Server', `Environment: ${process.env.NODE_ENV || 'development'}`);
+      
+      // Trigger live scrape in background on startup
+      runAllScrapers().catch(err => {
+        logger.error('Server', 'Initial live scrape failed', { error: err.message });
+      });
     });
   } catch (err) {
     logger.error('Server', 'Failed to start', { error: err.message });
