@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="GovTechJobs — India's most comprehensive government job portal covering 59+ portals. Find IT/Software, Banking, PSU, Defence & all government jobs with filters, cutoffs, and direct apply links.">
+  <meta name="keywords" content="government jobs, IT jobs, software engineer, DRDO, ISRO, NIC, SSC, UPSC, IBPS, GATE PSU, sarkari naukri">
+  <meta name="author" content="GovTechJobs">
+  <title>GovTechJobs — India's #1 Government IT & Software Job Portal</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
+</head>
+<body>
+  <!-- ============================================================
+       Header / Navbar
+       ============================================================ -->
+  <header class="header" id="header">
+    <div class="header-inner">
+      <a href="/" class="logo" id="logo">
+        <div class="logo-icon">🏛️</div>
+        <div class="logo-text">Gov<span>Tech</span>Jobs</div>
+      </a>
+
+      <div class="header-stats" id="header-stats">
+        <div class="header-stat">
+          <span class="header-stat-value" id="stat-total-jobs">—</span>
+          <span class="header-stat-label">Total Jobs</span>
+        </div>
+        <div class="header-stat">
+          <span class="header-stat-value" id="stat-active-jobs">—</span>
+          <span class="header-stat-label">Active Now</span>
+        </div>
+        <div class="header-stat">
+          <span class="header-stat-value" id="stat-it-jobs">—</span>
+          <span class="header-stat-label">IT/Software</span>
+        </div>
+        <div class="header-stat">
+          <span class="header-stat-value" id="stat-vacancies">—</span>
+          <span class="header-stat-label">Vacancies</span>
+        </div>
+      </div>
+
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <button class="theme-toggle" id="theme-toggle" title="Toggle Dark/Light Mode">🌙</button>
+        <div class="header-updated">
+          <div class="pulse-dot"></div>
+          <span id="last-updated">Loading...</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================================
+       Tab Navigation
+       ============================================================ -->
+  <nav class="tab-nav" id="tab-nav">
+    <button class="tab-btn active" data-tab="it-jobs" id="tab-btn-it">
+      <span class="tab-emoji">🖥️</span>IT/Software Jobs
+    </button>
+    <button class="tab-btn" data-tab="all-jobs" id="tab-btn-all">
+      <span class="tab-emoji">🏛️</span>All Government Jobs
+    </button>
+    <button class="tab-btn" data-tab="saved-jobs" id="tab-btn-saved">
+      <span class="tab-emoji">⭐</span>Saved Jobs<span class="tab-badge" id="saved-badge"></span>
+    </button>
+    <button class="tab-btn" data-tab="calendar" id="tab-btn-calendar">
+      <span class="tab-emoji">📅</span>Exam Calendar
+    </button>
+    <button class="tab-btn" data-tab="cutoffs" id="tab-btn-cutoffs">
+      <span class="tab-emoji">📊</span>Cutoff Marks
+    </button>
+    <button class="tab-btn" data-tab="portals" id="tab-btn-portals">
+      <span class="tab-emoji">🌐</span>Portal Directory
+    </button>
+  </nav>
+
+  <!-- ============================================================
+       Main Content
+       ============================================================ -->
+  <main class="main-content" id="main-content">
+
+    <!-- ======== IT/Software Jobs Tab ======== -->
+    <section class="tab-panel active" id="panel-it-jobs">
+      <!-- Stats bar -->
+      <div class="stats-bar" id="it-stats-bar">
+        <div class="stat-card">
+          <div class="stat-card-icon">🖥️</div>
+          <div class="stat-card-value" id="stat-sw-count">—</div>
+          <div class="stat-card-label">Software/IT Jobs</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card-icon">🏢</div>
+          <div class="stat-card-value" id="stat-portals-count">—</div>
+          <div class="stat-card-label">Portals Tracked</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card-icon">👥</div>
+          <div class="stat-card-value" id="stat-total-vacancies">—</div>
+          <div class="stat-card-label">Total Vacancies</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card-icon">🟢</div>
+          <div class="stat-card-value" id="stat-apply-now">—</div>
+          <div class="stat-card-label">Apply Now Open</div>
+        </div>
+      </div>
+
+      <!-- Age Eligibility Calculator -->
+      <div class="age-calc-section" id="age-calc-section">
+        <div class="age-calc-header">
+          <h3>🎂 Age Eligibility Calculator</h3>
+          <div class="age-calc-input-group">
+            <label for="dob-input">Your Date of Birth:</label>
+            <input type="date" class="age-calc-input" id="dob-input">
+            <button class="age-calc-btn" id="age-calc-btn">Check Eligibility</button>
+          </div>
+        </div>
+        <div id="age-result" class="age-result" style="display: none;"></div>
+      </div>
+
+      <!-- Filters -->
+      <div class="filter-section" id="it-filter-section">
+        <!-- Domain pills -->
+        <div class="filter-row" id="domain-filter-row">
+          <span class="filter-label">Domain</span>
+          <button class="filter-pill active" data-domain="software_it" id="pill-sw">🖥️ Software/IT</button>
+          <button class="filter-pill" data-domain="telecom" id="pill-telecom">📡 Telecom</button>
+          <button class="filter-pill" data-domain="cybersecurity" id="pill-cyber">🔒 Cybersecurity</button>
+          <button class="filter-pill" data-domain="data_analytics" id="pill-data">📊 Data/Analytics</button>
+          <button class="filter-pill" data-domain="banking" id="pill-banking">🏦 Banking</button>
+          <button class="filter-pill" data-domain="psu" id="pill-psu">⚡ PSU</button>
+          <button class="filter-pill" data-domain="teaching" id="pill-teaching">🎓 Teaching</button>
+        </div>
+
+        <!-- Status pills -->
+        <div class="filter-row" id="status-filter-row">
+          <span class="filter-label">Status</span>
+          <button class="filter-pill active" data-status="active" id="pill-active">🟢 Apply Now</button>
+          <button class="filter-pill" data-status="upcoming" id="pill-upcoming">🟡 Coming Soon</button>
+          <button class="filter-pill" data-status="exam_scheduled" id="pill-exam">🔵 Exam Scheduled</button>
+          <button class="filter-pill" data-status="result" id="pill-result">🟠 Result Out</button>
+          <button class="filter-pill" data-status="closed" id="pill-closed">🔴 Closed</button>
+        </div>
+
+        <!-- Dropdowns + Search + Sort -->
+        <div class="filter-row" id="advanced-filter-row">
+          <span class="filter-label">Filters</span>
+          <select class="filter-select" id="filter-org">
+            <option value="">All Organizations</option>
+          </select>
+          <select class="filter-select" id="filter-qualification">
+            <option value="">All Qualifications</option>
+            <option value="B.Tech">B.Tech/BE</option>
+            <option value="MCA">MCA</option>
+            <option value="M.Tech">M.Tech</option>
+            <option value="Graduate">Any Graduate</option>
+          </select>
+          <select class="filter-select" id="filter-experience">
+            <option value="">All Experience</option>
+            <option value="Fresher">Fresher</option>
+            <option value="0-2">0-2 years</option>
+            <option value="2-5">2-5 years</option>
+            <option value="5+">5+ years</option>
+          </select>
+          <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="search-input" id="search-input" placeholder="Search exams, organizations, posts...">
+          </div>
+        </div>
+
+        <!-- Sort + Active filters & count -->
+        <div class="filter-row" style="justify-content: space-between;">
+          <div class="sort-row">
+            <span class="sort-label">Sort by:</span>
+            <select class="filter-select" id="sort-select">
+              <option value="deadline">⏰ Deadline (Closing Soon)</option>
+              <option value="newest">🆕 Newest First</option>
+              <option value="vacancies">👥 Most Vacancies</option>
+              <option value="org">🏢 Organization (A-Z)</option>
+            </select>
+          </div>
+          <div class="results-count" id="results-count"></div>
+        </div>
+
+        <div class="filter-meta" id="filter-meta">
+          <div class="active-filters" id="active-filters"></div>
+        </div>
+      </div>
+
+      <!-- Job listings -->
+      <div class="jobs-grid" id="it-jobs-grid">
+        <div class="loading-container" id="it-loading">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Finding the best government IT jobs for you...</div>
+        </div>
+      </div>
+
+      <!-- Pagination -->
+      <div class="pagination" id="it-pagination"></div>
+    </section>
+
+    <!-- ======== All Government Jobs Tab ======== -->
+    <section class="tab-panel" id="panel-all-jobs">
+      <div class="filter-section" id="all-filter-section">
+        <div class="filter-row">
+          <span class="filter-label">Domain</span>
+          <button class="filter-pill all-domain-pill" data-domain="" id="pill-all-all">📋 All Domains</button>
+          <button class="filter-pill all-domain-pill" data-domain="software_it" id="pill-all-sw">🖥️ Software/IT</button>
+          <button class="filter-pill all-domain-pill" data-domain="non_it" id="pill-all-nonit">🏛️ Non-IT Govt</button>
+          <button class="filter-pill all-domain-pill" data-domain="banking" id="pill-all-banking">🏦 Banking</button>
+          <button class="filter-pill all-domain-pill" data-domain="psu" id="pill-all-psu">⚡ PSU</button>
+          <button class="filter-pill all-domain-pill" data-domain="telecom" id="pill-all-telecom">📡 Telecom</button>
+          <button class="filter-pill all-domain-pill" data-domain="teaching" id="pill-all-teaching">🎓 Teaching</button>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Search</span>
+          <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="search-input" id="all-search-input" placeholder="Search all government jobs...">
+          </div>
+        </div>
+        <div class="filter-meta">
+          <div class="results-count" id="all-results-count"></div>
+        </div>
+      </div>
+      <div class="jobs-grid" id="all-jobs-grid">
+        <div class="loading-container" id="all-loading">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Loading all government jobs...</div>
+        </div>
+      </div>
+      <div class="pagination" id="all-pagination"></div>
+    </section>
+
+    <!-- ======== Saved Jobs Tab ======== -->
+    <section class="tab-panel" id="panel-saved-jobs">
+      <div class="jobs-grid" id="saved-jobs-grid">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- ======== Exam Calendar Tab ======== -->
+    <section class="tab-panel" id="panel-calendar">
+      <div class="calendar-section" id="calendar-container">
+        <div class="calendar-header">
+          <h3>📅 Exam Calendar</h3>
+          <div class="calendar-nav">
+            <button class="calendar-nav-btn" id="cal-prev" title="Previous Month">◀</button>
+            <span class="calendar-month-label" id="cal-month-label"></span>
+            <button class="calendar-nav-btn" id="cal-next" title="Next Month">▶</button>
+          </div>
+        </div>
+        <div class="calendar-grid" id="calendar-grid">
+          <!-- Rendered by JS -->
+        </div>
+        <div class="calendar-legend">
+          <div class="calendar-legend-item"><div class="calendar-legend-dot deadline"></div> Application Deadline</div>
+          <div class="calendar-legend-item"><div class="calendar-legend-dot exam"></div> Exam Date</div>
+          <div class="calendar-legend-item"><div class="calendar-legend-dot start"></div> Application Start</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======== Cutoff Marks Tab ======== -->
+    <section class="tab-panel" id="panel-cutoffs">
+      <div class="cutoffs-section" id="cutoffs-container">
+        <div class="cutoffs-header">
+          <h3>📊 Previous Year Cutoff Marks</h3>
+          <div class="cutoffs-filters">
+            <select class="filter-select" id="cutoff-year-filter">
+              <option value="">All Years</option>
+              <option value="2025">2025</option>
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+            </select>
+            <select class="filter-select" id="cutoff-category-filter">
+              <option value="">All Categories</option>
+              <option value="General">General</option>
+              <option value="OBC">OBC</option>
+              <option value="SC">SC</option>
+              <option value="ST">ST</option>
+              <option value="EWS">EWS</option>
+              <option value="PwD">PwD</option>
+            </select>
+          </div>
+        </div>
+        <div class="cutoffs-table-wrapper">
+          <table class="cutoffs-full-table" id="cutoffs-table">
+            <thead>
+              <tr>
+                <th>Exam</th>
+                <th>Organization</th>
+                <th>Tier / Phase</th>
+                <th>Year</th>
+                <th>Category</th>
+                <th>Qualifying Marks</th>
+                <th>Merit Marks</th>
+                <th>Total Marks</th>
+              </tr>
+            </thead>
+            <tbody id="cutoffs-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======== Portal Directory Tab ======== -->
+    <section class="tab-panel" id="panel-portals">
+      <div id="portals-container">
+        <div class="loading-container" id="portals-loading">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Loading portal directory...</div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================================
+       Footer
+       ============================================================ -->
+  <footer class="footer" id="footer">
+    <p>🏛️ <strong>GovTechJobs</strong> — India's Most Comprehensive Government Job Portal</p>
+    <p>Covering <strong>59+ portals</strong> across IT/Software, Banking, PSU, Defence & Education sectors</p>
+    <p class="footer-disclaimer">
+      Disclaimer: Information is aggregated from official government portals. Always verify details on the official website before applying.
+      GovTechJobs is not affiliated with any government agency.
+    </p>
+  </footer>
+
+  <!-- Job Detail Modal -->
+  <div class="modal-overlay" id="job-modal-overlay">
+    <div class="modal" id="job-modal">
+      <div class="modal-header">
+        <div id="modal-header-content"></div>
+        <button class="modal-close" id="modal-close">✕</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+      <div class="modal-actions" id="modal-actions"></div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="back-to-top" title="Back to top">↑</button>
+
+  <script src="app.js"></script>
+</body>
+</html>

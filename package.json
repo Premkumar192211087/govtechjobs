@@ -1,0 +1,22 @@
+{
+  "name": "govtechjobs",
+  "version": "1.0.0",
+  "description": "GovTechJobs — Complete Government Job Portal covering 59+ portals with IT/Software focus",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["government", "jobs", "IT", "software", "portal", "india"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "pg": "^8.11.3"
+  }
+}
