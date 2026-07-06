@@ -821,6 +821,37 @@
     // Theme toggle
     document.getElementById('theme-toggle').addEventListener('click', () => applyTheme(state.theme === 'dark' ? 'light' : 'dark'));
 
+    // AI/ML Sync Portal Data
+    const syncBtn = document.getElementById('sync-ai-btn');
+    if (syncBtn) {
+      syncBtn.addEventListener('click', async () => {
+        try {
+          syncBtn.disabled = true;
+          syncBtn.textContent = '⏳ Syncing via AI...';
+          showToast('🤖 AI Crawler starting... scraping and extracting direct apply links');
+          
+          const r = await fetch('/api/jobs/sync-ai', { method: 'POST' });
+          const res = await r.json();
+          
+          if (res.success) {
+            showToast(`🎉 Sync complete! Loaded ${res.count} live job cards using AI model`);
+            await Promise.all([fetchStats(), fetchITJobs(), fetchAllJobsForCalendar()]);
+            // Re-render based on active tab
+            if (state.activeTab === 'it-jobs') renderJobCards('it-jobs-grid', state.itJobs);
+            else if (state.activeTab === 'all-jobs') fetchAllJobs();
+          } else {
+            showToast(`❌ Sync failed: ${res.error || 'Unknown error'}`);
+          }
+        } catch (err) {
+          showToast('❌ Sync failed: AI service offline');
+          console.error(err);
+        } finally {
+          syncBtn.disabled = false;
+          syncBtn.textContent = '🤖 Sync Portal Data';
+        }
+      });
+    }
+
     // Age calculator
     document.getElementById('age-calc-btn').addEventListener('click', checkAgeEligibility);
 

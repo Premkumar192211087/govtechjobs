@@ -79,4 +79,26 @@ router.get('/:id', async (req, res) => {
   }
 });
 
+// POST /api/jobs/sync-ai — Call FastAPI ML model to scrape and sync real-time jobs
+router.post('/sync-ai', async (req, res) => {
+  try {
+    const axios = require('axios');
+    const response = await axios.post('http://localhost:8000/reload-notifications', {}, { timeout: 15000 });
+    
+    if (response.data && response.data.success && response.data.jobs) {
+      const addedJobs = [];
+      for (const job of response.data.jobs) {
+        const id = await db.saveJob(job);
+        addedJobs.push({ ...job, id });
+      }
+      return res.json({ success: true, count: addedJobs.length, jobs: addedJobs });
+    }
+    
+    res.json({ success: false, error: 'No jobs returned from AI Service' });
+  } catch (err) {
+    console.error('Error syncing with AI service:', err.message);
+    res.status(500).json({ error: 'AI Service Sync failed', details: err.message });
+  }
+});
+
 module.exports = router;
