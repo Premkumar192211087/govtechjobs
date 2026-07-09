@@ -1,0 +1,39 @@
+{
+  "link_classifier": {
+    "accuracy": 0.984984984984985,
+    "per_class": {
+      "DIRECT_APPLY": 0.9619047619047619,
+      "CAREER_PAGE": 1.0,
+      "NOTIFICATION_PDF": 0.9821428571428571,
+      "IGNORE": 1.0
+    },
+    "total_samples": 333
+  },
+  "field_extractor": {
+    "overall_accuracy": 0.9883333333333333,
+    "per_field": {
+      "vacancies": 1.0,
+      "organization": 1.0,
+      "qualification": 1.0,
+      "age_limit": 1.0,
+      "application_fee": 0.93,
+      "pay_scale": 1.0
+    }
+  },
+  "confidence_scorer": {
+    "accuracy": 0.885,
+    "error_rate": 0.115,
+    "false_positives": 0,
+    "false_negatives": 23
+  },
+  "overall": {
+    "weighted_accuracy": 0.9614954954954955,
+    "targets_met": {
+      "Link Classifier \u2265 95%": true,
+      "Field Extraction \u2265 92%": true,
+      "Overall \u2265 90%": true,
+      "Error Rate < 0.5%": false
+    },
+    "evaluation_timestamp": "2026-07-09T18:06:00.865543"
+  }
+}

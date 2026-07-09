@@ -21,14 +21,17 @@ class BaseScraper {
    */
   async fetch(url) {
     let lastError;
+    const https = require('https');
+    const agent = new https.Agent({ rejectUnauthorized: false });
 
     for (let attempt = 1; attempt <= this.maxRetries; attempt++) {
       try {
         logger.debug(this.portalName, `Fetching (attempt ${attempt}): ${url}`);
         const response = await axios.get(url, {
           timeout: this.timeout,
+          httpsAgent: agent,
           headers: {
-            'User-Agent': 'GovTechJobs/1.0 (Educational Job Aggregator)',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'Accept-Language': 'en-IN,en;q=0.9,hi;q=0.8'
           }

@@ -1,0 +1,109 @@
+{
+  "spacy_ner": {
+    "overall_precision": 0.9921110760492269,
+    "overall_recall": 0.9815797689665938,
+    "overall_f1": 0.9868173258003766,
+    "entity_metrics": {
+      "VACANCY_COUNT": {
+        "precision": 0.9813432835820896,
+        "recall": 0.8766666666666667,
+        "f1": 0.926056338028169
+      },
+      "START_DATE": {
+        "precision": 0.9863945578231292,
+        "recall": 0.9666666666666667,
+        "f1": 0.9764309764309764
+      },
+      "LAST_DATE": {
+        "precision": 0.9673202614379085,
+        "recall": 0.9866666666666667,
+        "f1": 0.9768976897689768
+      },
+      "EXAM_DATE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "QUALIFICATION": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "AGE_LIMIT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "APPLICATION_FEE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PAY_SCALE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "CUTOFF_MARKS": {
+        "precision": 0,
+        "recall": 0,
+        "f1": 0
+      },
+      "ORGANIZATION": {
+        "precision": 1.0,
+        "recall": 0.9917695473251029,
+        "f1": 0.9958677685950413
+      },
+      "POST_NAME": {
+        "precision": 0.98,
+        "recall": 0.98,
+        "f1": 0.98
+      },
+      "EXPERIENCE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
+  },
+  "crf_fallback": {
+    "f1": 0.9990845522087788,
+    "labels": [
+      "I-LAST_DATE",
+      "I-AGE_LIMIT",
+      "B-START_DATE",
+      "I-EXAM_DATE",
+      "I-QUALIFICATION",
+      "B-EXPERIENCE",
+      "B-AGE_LIMIT",
+      "B-LAST_DATE",
+      "I-PAY_SCALE",
+      "I-APPLICATION_FEE",
+      "B-PAY_SCALE",
+      "I-START_DATE",
+      "B-APPLICATION_FEE",
+      "I-POST_NAME",
+      "B-QUALIFICATION",
+      "B-ORGANIZATION",
+      "B-VACANCY_COUNT",
+      "B-POST_NAME",
+      "I-EXPERIENCE",
+      "B-EXAM_DATE"
+    ]
+  },
+  "n_train": 1700,
+  "n_test": 300,
+  "entity_counts": {
+    "VACANCY_COUNT": 2000,
+    "POST_NAME": 2000,
+    "QUALIFICATION": 2000,
+    "AGE_LIMIT": 2000,
+    "APPLICATION_FEE": 1813,
+    "PAY_SCALE": 2000,
+    "START_DATE": 2000,
+    "LAST_DATE": 2000,
+    "EXAM_DATE": 1813,
+    "EXPERIENCE": 2000,
+    "ORGANIZATION": 1596
+  }
+}

@@ -541,6 +541,24 @@ const portals = [
     exams: 'State PCS, Various'
   },
   {
+    shortName: 'APPSC',
+    name: 'Andhra Pradesh Public Service Commission',
+    url: 'https://psc.ap.gov.in',
+    category: 'state',
+    description: 'Recruitment board for Andhra Pradesh state services',
+    itRoles: 'Assistant Director (IT), Group-I, Group-II technical roles',
+    exams: 'APPSC Group I, Group II, Group III'
+  },
+  {
+    shortName: 'TSPSC',
+    name: 'Telangana State Public Service Commission',
+    url: 'https://tspsc.gov.in',
+    category: 'state',
+    description: 'Recruitment board for Telangana state services',
+    itRoles: 'System Analyst, Assistant Director (CS), Technical officers',
+    exams: 'TSPSC Group I, Group II, Group III, Gurukul Teachers'
+  },
+  {
     shortName: 'StateIT',
     name: 'State IT Departments',
     url: 'https://meity.gov.in/state-it',

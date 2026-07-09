@@ -1,0 +1,253 @@
+{
+  "training_timestamp": "2026-07-09T18:05:23.887066",
+  "total_training_time_seconds": 996.02,
+  "models": {
+    "link_classifier": {
+      "train_accuracy": 1.0,
+      "test_accuracy": 0.9878542510121457,
+      "test_precision": 0.9880959574596653,
+      "test_recall": 0.9878542510121457,
+      "test_f1": 0.9878790507531539,
+      "classification_report": {
+        "DIRECT_APPLY": {
+          "precision": 1.0,
+          "recall": 0.9855072463768116,
+          "f1-score": 0.9927007299270073,
+          "support": 69.0
+        },
+        "CAREER_PAGE": {
+          "precision": 0.9848484848484849,
+          "recall": 0.9848484848484849,
+          "f1-score": 0.9848484848484849,
+          "support": 66.0
+        },
+        "NOTIFICATION_PDF": {
+          "precision": 1.0,
+          "recall": 0.9787234042553191,
+          "f1-score": 0.989247311827957,
+          "support": 47.0
+        },
+        "IGNORE": {
+          "precision": 0.9701492537313433,
+          "recall": 1.0,
+          "f1-score": 0.9848484848484849,
+          "support": 65.0
+        },
+        "accuracy": 0.9878542510121457,
+        "macro avg": {
+          "precision": 0.988749434644957,
+          "recall": 0.9872697838701538,
+          "f1-score": 0.9879112528629835,
+          "support": 247.0
+        },
+        "weighted avg": {
+          "precision": 0.9880959574596653,
+          "recall": 0.9878542510121457,
+          "f1-score": 0.9878790507531539,
+          "support": 247.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          68,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          65,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          46,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          65
+        ]
+      ],
+      "n_train": 986,
+      "n_test": 247,
+      "cross_validation": {
+        "mean_f1": 0.9959460472475868,
+        "std_f1": 0.003623436966891898,
+        "fold_scores": [
+          1.0,
+          0.9918965200397049,
+          0.9918989973978191,
+          0.9959347188004101,
+          1.0
+        ],
+        "k_folds": 5
+      }
+    },
+    "field_extractor": {
+      "spacy_ner": {
+        "overall_precision": 0.9921110760492269,
+        "overall_recall": 0.9815797689665938,
+        "overall_f1": 0.9868173258003766,
+        "entity_metrics": {
+          "VACANCY_COUNT": {
+            "precision": 0.9813432835820896,
+            "recall": 0.8766666666666667,
+            "f1": 0.926056338028169
+          },
+          "START_DATE": {
+            "precision": 0.9863945578231292,
+            "recall": 0.9666666666666667,
+            "f1": 0.9764309764309764
+          },
+          "LAST_DATE": {
+            "precision": 0.9673202614379085,
+            "recall": 0.9866666666666667,
+            "f1": 0.9768976897689768
+          },
+          "EXAM_DATE": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "QUALIFICATION": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "AGE_LIMIT": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "APPLICATION_FEE": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "PAY_SCALE": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "CUTOFF_MARKS": {
+            "precision": 0,
+            "recall": 0,
+            "f1": 0
+          },
+          "ORGANIZATION": {
+            "precision": 1.0,
+            "recall": 0.9917695473251029,
+            "f1": 0.9958677685950413
+          },
+          "POST_NAME": {
+            "precision": 0.98,
+            "recall": 0.98,
+            "f1": 0.98
+          },
+          "EXPERIENCE": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          }
+        }
+      },
+      "crf_fallback": {
+        "f1": 0.9990845522087788,
+        "labels": [
+          "I-LAST_DATE",
+          "I-AGE_LIMIT",
+          "B-START_DATE",
+          "I-EXAM_DATE",
+          "I-QUALIFICATION",
+          "B-EXPERIENCE",
+          "B-AGE_LIMIT",
+          "B-LAST_DATE",
+          "I-PAY_SCALE",
+          "I-APPLICATION_FEE",
+          "B-PAY_SCALE",
+          "I-START_DATE",
+          "B-APPLICATION_FEE",
+          "I-POST_NAME",
+          "B-QUALIFICATION",
+          "B-ORGANIZATION",
+          "B-VACANCY_COUNT",
+          "B-POST_NAME",
+          "I-EXPERIENCE",
+          "B-EXAM_DATE"
+        ]
+      },
+      "n_train": 1700,
+      "n_test": 300,
+      "entity_counts": {
+        "VACANCY_COUNT": 2000,
+        "POST_NAME": 2000,
+        "QUALIFICATION": 2000,
+        "AGE_LIMIT": 2000,
+        "APPLICATION_FEE": 1813,
+        "PAY_SCALE": 2000,
+        "START_DATE": 2000,
+        "LAST_DATE": 2000,
+        "EXAM_DATE": 1813,
+        "EXPERIENCE": 2000,
+        "ORGANIZATION": 1596
+      }
+    },
+    "confidence_scorer": {
+      "test_accuracy": 1.0,
+      "test_precision": 1.0,
+      "test_recall": 1.0,
+      "test_f1": 1.0,
+      "classification_report": {
+        "Unreliable": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 64.0
+        },
+        "Reliable": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 136.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 200.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          64,
+          0
+        ],
+        [
+          0,
+          136
+        ]
+      ],
+      "n_train": 800,
+      "n_test": 200,
+      "error_rate": 0.0
+    }
+  },
+  "target_metrics": {
+    "link_classifier_accuracy": "\u2265 95%",
+    "field_extractor_f1": "\u2265 92%",
+    "overall_accuracy": "\u2265 90%",
+    "error_rate": "< 0.5%"
+  }
+}

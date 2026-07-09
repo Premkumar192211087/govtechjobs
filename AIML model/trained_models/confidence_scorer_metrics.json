@@ -1,0 +1,71 @@
+{
+  "metrics": {
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "classification_report": {
+      "Unreliable": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 64.0
+      },
+      "Reliable": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 136.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        64,
+        0
+      ],
+      [
+        0,
+        136
+      ]
+    ],
+    "n_train": 800,
+    "n_test": 200,
+    "error_rate": 0.0
+  },
+  "feature_importance": {
+    "confidence_score": 0.21822543480247977,
+    "fields_extracted": 0.20830651425129107,
+    "extraction_completeness": 0.19472055407902888,
+    "vacancy_value": 0.14162358950846846,
+    "dates_chronological": 0.05455852705885207,
+    "org_is_known": 0.045831392244233986,
+    "has_exam_date": 0.029348643820481374,
+    "has_age_limit": 0.024193740243538934,
+    "has_org": 0.021916533020020033,
+    "has_fee": 0.0156797468408217,
+    "has_last_date": 0.013909874281620282,
+    "vacancy_in_range": 0.013907531459514096,
+    "has_pay_scale": 0.012135258183163187,
+    "qualification_length": 0.0021990817465680984,
+    "post_name_length": 0.0016278085070390875,
+    "text_length": 0.0015524739527079297,
+    "has_vacancy": 0.00017807696094689445,
+    "has_qualification": 8.263130510161407e-05,
+    "has_start_date": 2.5877341223184633e-06,
+    "has_post_name": 0.0,
+    "total_fields": 0.0
+  }
+}

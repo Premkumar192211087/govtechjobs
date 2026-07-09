@@ -79,19 +79,33 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-// POST /api/jobs/sync-ai — Call FastAPI ML model to scrape and sync real-time jobs
+// POST /api/jobs/sync-ai — Call FastAPI ML model to scrape ALL 59+ portals
 router.post('/sync-ai', async (req, res) => {
   try {
     const axios = require('axios');
-    const response = await axios.post('http://localhost:8000/reload-notifications', {}, { timeout: 15000 });
+    const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
+    
+    const response = await axios.post(`${AI_SERVICE_URL}/reload-notifications`, {}, {
+      timeout: 120000 // 2 minutes — scraping all portals takes time
+    });
     
     if (response.data && response.data.success && response.data.jobs) {
-      const addedJobs = [];
+      let savedCount = 0;
       for (const job of response.data.jobs) {
-        const id = await db.saveJob(job);
-        addedJobs.push({ ...job, id });
+        try {
+          await db.saveJob(job);
+          savedCount++;
+        } catch (err) {
+          // Skip duplicates
+        }
       }
-      return res.json({ success: true, count: addedJobs.length, jobs: addedJobs });
+      return res.json({
+        success: true,
+        count: savedCount,
+        totalFound: response.data.total_jobs_found,
+        portalsScraped: response.data.total_portals_scraped,
+        errors: response.data.errors || []
+      });
     }
     
     res.json({ success: false, error: 'No jobs returned from AI Service' });
@@ -101,4 +115,16 @@ router.post('/sync-ai', async (req, res) => {
   }
 });
 
+// DELETE /api/jobs/clear — Wipe all stale jobs before a full resync
+router.delete('/clear', async (req, res) => {
+  try {
+    const count = await db.clearAllJobs();
+    res.json({ success: true, cleared: count });
+  } catch (err) {
+    console.error('Error clearing jobs:', err);
+    res.status(500).json({ error: 'Failed to clear jobs' });
+  }
+});
+
 module.exports = router;
+

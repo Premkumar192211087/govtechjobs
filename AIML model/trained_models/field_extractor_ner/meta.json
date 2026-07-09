@@ -1,0 +1,44 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.13,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"fdca647",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "ner":[
+      "AGE_LIMIT",
+      "APPLICATION_FEE",
+      "CUTOFF_MARKS",
+      "EXAM_DATE",
+      "EXPERIENCE",
+      "LAST_DATE",
+      "ORGANIZATION",
+      "PAY_SCALE",
+      "POST_NAME",
+      "QUALIFICATION",
+      "START_DATE",
+      "VACANCY_COUNT"
+    ]
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "components":[
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}

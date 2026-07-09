@@ -1,0 +1,7400 @@
+[
+  {
+    "url": "https://ssc.gov.in/current-openings",
+    "anchor_text": "Walk-in Interview at IBPS",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/apply",
+    "anchor_text": "KVS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/jobs",
+    "anchor_text": "Walk-in Interview at SAIL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sebi.gov.in/jobs",
+    "anchor_text": "AAI Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://csir.res.in/disclaimer",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/new-reg.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://powergrid.in/recruitment",
+    "anchor_text": "ONGC Advertisement No. 18/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aai.aero/vacancies",
+    "anchor_text": "Walk-in Interview at DRDO",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/recruitment",
+    "anchor_text": "Latest SBI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://t.me/govtjobs",
+    "anchor_text": "Join Telegram Channel",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/GAIL-Recruitment-2026.pdf",
+    "anchor_text": "ISRO Scientist/Engineer SC Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://esic.gov.in/candidate/registration",
+    "anchor_text": "Apply for Junior Resident",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/openings",
+    "anchor_text": "Latest BEL Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sebi.gov.in/signup.aspx",
+    "anchor_text": "ISRO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/index.aspx",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/careers/apply",
+    "anchor_text": "GAIL ET Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/new-reg.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/documents/BARC-Advertisement-2026.pdf",
+    "anchor_text": "IBPS Clerk Recruitment CRP Clerks-XIV - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ecil.co.in/privacy-policy",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/opportunities",
+    "anchor_text": "BARC Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/recruitment",
+    "anchor_text": "TSPSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/notice-board",
+    "anchor_text": "TSPSC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/newreg.aspx",
+    "anchor_text": "IBPS Clerk Recruitment CRP Clerks-XIV - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/notifications",
+    "anchor_text": "GAIL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://dae.gov.in/disclaimer",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/documents/KVS-Notification-2025.pdf",
+    "anchor_text": "Click here to download KVS recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://dae.gov.in/jobs",
+    "anchor_text": "SSC Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/openings",
+    "anchor_text": "DMRC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://wa.me/dmrc",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/disclaimer",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/advertisements",
+    "anchor_text": "SEBI Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/Recruitment",
+    "anchor_text": "APPSC Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/candidate/registration.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://instagram.com/lic",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sail.co.in/documents/FCI-Notification-2024.pdf",
+    "anchor_text": "Download Notice: ISRO ICRB Centralised Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/register",
+    "anchor_text": "IBPS RRB Officer Scale-I Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/documents/NTA-Advertisement-2026.pdf",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/signup",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/recruitment/active-advertisements",
+    "anchor_text": "Active Advertisements UPSC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/ONGC-Advertisement-2026.pdf",
+    "anchor_text": "ONGC Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bel-india.in/notice-board",
+    "anchor_text": "ONGC Advertisement No. 7/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://navodaya.gov.in/careers",
+    "anchor_text": "Walk-in Interview at SEBI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/documents/IOCL-Circular-2024.pdf",
+    "anchor_text": "Download Notice: Combined Defence Services Examination (CDS) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/documents/NVS-Notice-2025.pdf",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/sign-up.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/index.html",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://stpi.in/career",
+    "anchor_text": "SEBI Advertisement No. 4/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/about",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/documents/GAIL-Circular-2026.pdf",
+    "anchor_text": "Click here to download GAIL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nic.in/documents/ESIC-Notice-2024.pdf",
+    "anchor_text": "Engineering Services Examination (ESE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://powergrid.in/signup.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/newreg.aspx",
+    "anchor_text": "DMRC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/documents/ONGC-Notification-2025.pdf",
+    "anchor_text": "Combined Defence Services Examination (CDS) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/documents/BARC-Circular-2026.pdf",
+    "anchor_text": "BARC Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://linkedin.com/epfo",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://wa.me/aai",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/media",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/help",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/UPSC-Notice-2025.pdf",
+    "anchor_text": "UPSC Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://gailonline.com/vacancies",
+    "anchor_text": "Walk-in Interview at STPI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/RBI-Notification-2025.pdf",
+    "anchor_text": "Click here to download RBI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nabard.org/careers",
+    "anchor_text": "Latest SSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://twitter.com/isaboratory",
+    "anchor_text": "ISRO Twitter Handle",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nielit.gov.in/index.html",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/ora/candidate.jsp",
+    "anchor_text": "NTPC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/applyonline.aspx",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/contact",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nic.in/career",
+    "anchor_text": "Latest BARC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cert-in.org.in/documents/APPSC-Notification-2024.pdf",
+    "anchor_text": "Download Notice: National Defence Academy (NDA) Examination 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://stpi.in/openings",
+    "anchor_text": "ONGC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bel-india.in/registration/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/documents/NTA-Recruitment-2025.pdf",
+    "anchor_text": "Download Notice: Civil Services Examination (CSE) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/recruitment",
+    "anchor_text": "Latest NIC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/index.aspx",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://facebook.com/dmrc",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://pinterest.com/upsc",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bhel.com/login",
+    "anchor_text": "IBPS SO Specialist Officer Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/documents/NABARD-Recruitment-2024.pdf",
+    "anchor_text": "Download Notice: IBPS PO/MT Recruitment CRP-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibps.in/recruitment",
+    "anchor_text": "DRDO Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://tspsc.gov.in/TSPSCWEB/ApplyOnline.jsp",
+    "anchor_text": "TSPSC Group I Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/advertisements",
+    "anchor_text": "AIIMS Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/advertisements",
+    "anchor_text": "Walk-in Interview at NIC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/current-openings",
+    "anchor_text": "NVS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/registration",
+    "anchor_text": "ECIL Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/registration/",
+    "anchor_text": "Apply for Grade B Officer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://twitter.com/bhel",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://csir.res.in/applyonline/",
+    "anchor_text": "Apply for Agniveer (General Duty)",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notice-board",
+    "anchor_text": "ONGC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/jobs",
+    "anchor_text": "Walk-in Interview at IBPS",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://wa.me/rbi",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/signup/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/help",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://navodaya.gov.in/documents/NABARD-Recruitment-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Scientist B",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://iocl.com/signup.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ecil.co.in/documents/NIC-Recruitment-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Group-II Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rac.gov.in/documents/DRDO-Recruitment-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Staff Nurse",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/candidate/registration.aspx",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/apply.php",
+    "anchor_text": "KVS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/documents/DRDO-Notification-2024.pdf",
+    "anchor_text": "Download Notice: DRDO Scientist B Recruitment through RAC 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://pinterest.com/rbi",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://fci.gov.in/online-apply/",
+    "anchor_text": "ONGC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://isro.gov.in/positions",
+    "anchor_text": "KVS Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/recruitment",
+    "anchor_text": "KVS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://coalindia.in/register.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/acts-rules",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/opportunities",
+    "anchor_text": "Latest AAI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://hal-india.co.in/signup/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://isro.gov.in/documents/UPSC-Notice-2026.pdf",
+    "anchor_text": "Download Notice: LIC ADO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/KVS-Advertisement-2026.pdf",
+    "anchor_text": "Download Notice: SBI PO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nhmmp.gov.in/recruitment",
+    "anchor_text": "BEL Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/login/",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/registration.jsp",
+    "anchor_text": "EPFO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ntpc.co.in/",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/documents/BEL-Advertisement-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Gramin Dak Sevak",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/applyonline.aspx",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://apply.rrbcdg.gov.in/",
+    "anchor_text": "RRB Online Application Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://railtelindia.com/documents/CSIR-Advertisement-2025.pdf",
+    "anchor_text": "Click here to download CSIR recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://barc.gov.in/documents/RBI-Advertisement-2026.pdf",
+    "anchor_text": "Download Notice: SBI Specialist Officer (IT) Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://dae.gov.in/privacy-policy",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nta.ac.in/notifications",
+    "anchor_text": "Latest TSPSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/jobs",
+    "anchor_text": "NABARD Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cert-in.org.in/contact",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/account/login.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/online-apply.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/jobs",
+    "anchor_text": "BEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/feedback",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nic.in/documents/AAI-Circular-2024.pdf",
+    "anchor_text": "Click here to download AAI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://youtube.com/sbi",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://csir.res.in/documents/AAI-Notice-2024.pdf",
+    "anchor_text": "AAI Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ssc.gov.in/apply/",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/newreg",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://csir.res.in/documents/NIC-Circular-2025.pdf",
+    "anchor_text": "LIC Assistant Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ugc.gov.in/jobs",
+    "anchor_text": "NIELIT Advertisement No. 7/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergrid.in/documents/NIC-Circular-2024.pdf",
+    "anchor_text": "NIC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://delhimetrorail.com/positions",
+    "anchor_text": "GAIL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://dae.gov.in/openings",
+    "anchor_text": "STPI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/openings",
+    "anchor_text": "Walk-in Interview at KVS",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://examinationservices.nic.in/registration",
+    "anchor_text": "UPSC ESE Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/sign-up.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/faq",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/contact",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/documents/DMRC-Notification-2024.pdf",
+    "anchor_text": "Click here to download DMRC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://appost.in/apply",
+    "anchor_text": "India Post GDS Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/ora/candidate.aspx",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibpsonline.ibps.in/crp-clerk-nov26/registration.php",
+    "anchor_text": "IBPS Clerk Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/account/login.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://twitter.com/nic",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/advertisements",
+    "anchor_text": "CDAC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://uidai.gov.in/citizen-charter",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bel-india.in/ContentPage.aspx?MId=17&CId=37",
+    "anchor_text": "BEL Recruitment Careers Page",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://navodaya.gov.in/rti",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/index.aspx",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://applyonline.licindia.in/register",
+    "anchor_text": "LIC AAO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/documents/TSPSC-Circular-2024.pdf",
+    "anchor_text": "Click here to download TSPSC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bank.sbi/positions",
+    "anchor_text": "Walk-in Interview at AAI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/apply",
+    "anchor_text": "RAC DRDO Scientist B Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ntpc.co.in/opportunities",
+    "anchor_text": "BHEL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/notice-board",
+    "anchor_text": "NABARD Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://onlineapplication.esic.gov.in/",
+    "anchor_text": "ESIC UDC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/documents/IOCL-Notification-2026.pdf",
+    "anchor_text": "Download Notice: SBI PO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://dae.gov.in/openings",
+    "anchor_text": "APPSC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/applyonline.jsp",
+    "anchor_text": "UPSC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ugc.gov.in/opportunities",
+    "anchor_text": "ISRO Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/documents/CSIR-Recruitment-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Clerk",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bhel.com/login/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ntpc.co.in/sitemap",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/recruitment",
+    "anchor_text": "HAL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/about",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/newreg.php",
+    "anchor_text": "Apply for Inspector of Posts",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/current-openings",
+    "anchor_text": "SSC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/documents/DMRC-Advertisement-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Sorting Assistant",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rac.gov.in/opportunities",
+    "anchor_text": "Latest AAI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/applyonline",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/documents/STPI-Advertisement-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Inspector of Posts",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/disclaimer",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bank.sbi/openings",
+    "anchor_text": "HAL Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/ora/candidate",
+    "anchor_text": "Combined Graduate Level Examination (CGL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://powergrid.in/documents/ISRO-Circular-2024.pdf",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/account/login.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://epfindia.gov.in/faq",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/opportunities",
+    "anchor_text": "Latest FCI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://pinterest.com/aai",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://www.isro.gov.in/disclaimer",
+    "anchor_text": "ISRO Website Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://indiapost.gov.in/documents/IOCL-Recruitment-2025.pdf",
+    "anchor_text": "Click here to download IOCL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/citizen-charter",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/documents/NIC-Circular-2025.pdf",
+    "anchor_text": "Click here to download NIC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://sebi.gov.in/careers",
+    "anchor_text": "SAIL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://stpi.in/advertisements",
+    "anchor_text": "ESIC Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/rbi",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/registration/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/login.php",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/apply/",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ctet.nic.in/notice-board",
+    "anchor_text": "NVS Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://recruit.aai.aero/apply",
+    "anchor_text": "AAI JE Online Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/current-openings",
+    "anchor_text": "Walk-in Interview at IOCL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://t.me/nic",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/apply/",
+    "anchor_text": "AIIMS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/annual-report",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://instagram.com/aai",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bhel.com/positions",
+    "anchor_text": "AIIMS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bel-india.in/login.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://fci.gov.in/applyonline",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/registration/",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/media",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsconline.nic.in/ora/candidate/registration.php",
+    "anchor_text": "New Registration ORA UPSC",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/opportunities",
+    "anchor_text": "HAL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/documents/TSPSC-Circular-2025.pdf",
+    "anchor_text": "Engineering Services Examination (ESE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://isro.gov.in/careers",
+    "anchor_text": "FCI Advertisement No. 17/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bpclcareers.co.in/register",
+    "anchor_text": "BPCL MT Apply Online Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://delhimetrorail.com/openings",
+    "anchor_text": "DMRC Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/documents/EPFO-Notification-2024.pdf",
+    "anchor_text": "EPFO Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://stpi.in/recruitment",
+    "anchor_text": "Walk-in Interview at IOCL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/online-apply.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/acts-rules",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/documents/CDAC-Notice-2024.pdf",
+    "anchor_text": "Civil Services Examination (CSE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ctet.nic.in/careers",
+    "anchor_text": "Walk-in Interview at NIELIT",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://hal-india.co.in/new-reg/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nta.ac.in/ora/candidate/",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/new-reg.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/documents/AIIMS-Circular-2024.pdf",
+    "anchor_text": "Click here to download AIIMS recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ugc.gov.in/opportunities",
+    "anchor_text": "NVS Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://youtube.com/bel",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/online-apply",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/documents/AAI-Notification-2026.pdf",
+    "anchor_text": "Download Notice: IBPS Clerk Recruitment CRP Clerks-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/account/login.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ctet.nic.in/signup.jsp",
+    "anchor_text": "ESIC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nhmmp.gov.in/notice-board",
+    "anchor_text": "Latest TSPSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/register/",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://stpi.in/notifications",
+    "anchor_text": "DRDO Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/web/careers/apply-online",
+    "anchor_text": "SBI PO Apply Online Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/documents/UPSC-Notification-2026.pdf",
+    "anchor_text": "Civil Services Examination (CSE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://hal-india.co.in/positions",
+    "anchor_text": "CDAC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/notifications",
+    "anchor_text": "RRB Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/opportunities",
+    "anchor_text": "NIC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/documents/ESIC-Notification-2026.pdf",
+    "anchor_text": "ISRO ICRB Centralised Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://indiapost.gov.in/registration/",
+    "anchor_text": "Apply for Group-II Officer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/index.html",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/applyonline.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/ora/candidate.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://fci.gov.in/login/",
+    "anchor_text": "RBI Assistant Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/opportunities",
+    "anchor_text": "SAIL Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://railtelindia.com/sitemap",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/signup.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/faq",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://t.me/bel",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://fci.gov.in/register.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://csir.res.in/index.aspx",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/sign-up/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/recruitment",
+    "anchor_text": "EPFO Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nta.ac.in/apply",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://wa.me/ntpc",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/documents/CSIR-Notification-2024.pdf",
+    "anchor_text": "Download Notice: SBI PO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ecil.co.in/current-openings",
+    "anchor_text": "UPSC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/apply.php",
+    "anchor_text": "Apply for Constable",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/online-apply.aspx",
+    "anchor_text": "NIELIT Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/documents/APPSC-Notice-2025.pdf",
+    "anchor_text": "NABARD Grade A & B Officer Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://pinterest.com/nta",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/media",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/feedback",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/apply",
+    "anchor_text": "KVS PGT TGT Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/documents/ESIC-Notification-2026.pdf",
+    "anchor_text": "Download Notice: Combined Graduate Level Examination (CGL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/notifications",
+    "anchor_text": "HAL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://gailonline.com/opportunities",
+    "anchor_text": "Latest APPSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/uploads/FCI-Manager-Grade-III-2026.pdf",
+    "anchor_text": "FCI Manager Recruitment 2026 PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://delhimetrorail.com/sign-up.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/documents/UPSC-Recruitment-2025.pdf",
+    "anchor_text": "LIC AAO Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://facebook.com/rbi",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/opportunities",
+    "anchor_text": "TSPSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/career",
+    "anchor_text": "Walk-in Interview at DMRC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/help",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/",
+    "anchor_text": "RAC DRDO Scientist Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/documents/PO-2026-notification.pdf",
+    "anchor_text": "SBI PO 2026 Detailed Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://indiapost.gov.in/account/login.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/media",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/documents/ISRO-Notification-2026.pdf",
+    "anchor_text": "Click here to download ISRO recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://indiapost.gov.in/positions",
+    "anchor_text": "SEBI Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/register.php",
+    "anchor_text": "ESIC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://linkedin.com/ntpc",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/contact",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://navodaya.gov.in/openings",
+    "anchor_text": "Walk-in Interview at TSPSC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/index.html",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/advertisements",
+    "anchor_text": "Latest NTPC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/login.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/apply.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/IOCL-Recruitment-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Stenographer Grade C",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/positions",
+    "anchor_text": "Latest CSIR Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/notifications",
+    "anchor_text": "Latest EPFO Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/login.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ongcindia.com/candidate/registration",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://iocl.com/vacancies",
+    "anchor_text": "CSIR Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/applyonline.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/index.html",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://wa.me/nta",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://navodaya.gov.in/register.aspx",
+    "anchor_text": "IBPS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://instagram.com/lic",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/online-apply.aspx",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://tspsc.gov.in/documents/GAIL-Circular-2025.pdf",
+    "anchor_text": "Download Notice: LIC ADO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://esic.gov.in/apply.php",
+    "anchor_text": "Junior Engineer (JE) Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/documents/TSPSC-Notice-2026.pdf",
+    "anchor_text": "Download Notice: Combined Graduate Level Examination (CGL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/online-apply.php",
+    "anchor_text": "RBI Grade B Officer Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/documents/NTPC-Circular-2024.pdf",
+    "anchor_text": "NTPC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/documents/BHEL-Recruitment-2025.pdf",
+    "anchor_text": "Click here to download BHEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://powergrid.in/documents/SAIL-Circular-2024.pdf",
+    "anchor_text": "Download Notice: Combined Defence Services Examination (CDS) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bank.sbi/ora/candidate.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/ora/candidate/",
+    "anchor_text": "Apply for Inspector of Posts",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/current-openings",
+    "anchor_text": "RRB Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/opportunities",
+    "anchor_text": "DRDO Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/applyonline.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rbi.org.in/jobs",
+    "anchor_text": "ISRO Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/sitemap",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://coalindia.in/documents/ISRO-Notice-2026.pdf",
+    "anchor_text": "Click here to download ISRO recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://sailcareers.com/apply",
+    "anchor_text": "SAIL MT Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://youtube.com/sscofficial",
+    "anchor_text": "SSC Official YouTube Channel",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/disclaimer",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/new-reg",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notice-board",
+    "anchor_text": "RRB Advertisement No. 4/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cdac.in/faq",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/candidate/registration",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://wa.me/919876543210",
+    "anchor_text": "WhatsApp Group Join Link",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/opportunities",
+    "anchor_text": "GAIL Advertisement No. 20/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/upsc.gov.in",
+    "anchor_text": "Follow UPSC on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/online-apply.php",
+    "anchor_text": "Apply for Primary Teacher (PRT)",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://delhimetrorail.com/documents/RRB-Recruitment-2026.pdf",
+    "anchor_text": "RRB Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nhmmp.gov.in/current-openings",
+    "anchor_text": "SBI Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://hal-india.co.in/citizen-charter",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://navodaya.gov.in/ora/candidate.aspx",
+    "anchor_text": "UPSC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aai.aero/documents/CSIR-Advertisement-2025.pdf",
+    "anchor_text": "Click here to download CSIR recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://t.me/nta",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/documents/UPSC-Recruitment-2024.pdf",
+    "anchor_text": "UPSC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/advertisements",
+    "anchor_text": "BARC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/recruitment",
+    "anchor_text": "ESIC Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergrid.in/documents/UPSC-Notification-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Head Constable",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notice-board",
+    "anchor_text": "TSPSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://apply.bel-india.in/",
+    "anchor_text": "BEL Project Engineer Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/notifications",
+    "anchor_text": "NTA Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/documents/BHEL-Notification-2025.pdf",
+    "anchor_text": "Click here to download BHEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/notifications",
+    "anchor_text": "Latest DMRC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/BEL-Circular-2026.pdf",
+    "anchor_text": "Click here to download BEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cbseresults.nic.in/newreg/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://pinterest.com/ongc",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://meity.gov.in/feedback",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/CSIR-Advertisement-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Technical Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/login.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://tspsc.gov.in/about.jsp",
+    "anchor_text": "About TSPSC Commission",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bsnl.co.in/vacancies",
+    "anchor_text": "BEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://iocl.com/careers",
+    "anchor_text": "TSPSC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/index.html",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/documents/RRB-Notification-2026.pdf",
+    "anchor_text": "Download Notice: Stenographer Grade C & D Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://stpi.in/documents/DMRC-Circular-2024.pdf",
+    "anchor_text": "Download Notice: Combined Higher Secondary Level Examination (CHSL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://esic.gov.in/documents/APPSC-Advertisement-2025.pdf",
+    "anchor_text": "IBPS RRB Officer Scale-I Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://epfindia.gov.in/jobs",
+    "anchor_text": "CDAC Advertisement No. 17/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/documents/SSC-Recruitment-2024.pdf",
+    "anchor_text": "SSC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/documents/NTA-Advertisement-2024.pdf",
+    "anchor_text": "Click here to download NTA recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/NTPC-Circular-2024.pdf",
+    "anchor_text": "NTPC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rbi.org.in/sign-up.php",
+    "anchor_text": "KVS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/vacancies",
+    "anchor_text": "NTPC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/online-apply/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://iocl.com/tender",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/jobs",
+    "anchor_text": "IBPS Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/candidate/registration",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/register.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/newreg",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ntpc.co.in/applyonline/",
+    "anchor_text": "FCI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/gallery",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/documents/RRB-Notice-2025.pdf",
+    "anchor_text": "Download Notice: IBPS Clerk Recruitment CRP Clerks-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aai.aero/current-openings",
+    "anchor_text": "SSC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/register.aspx",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/DRDO-Recruitment-2024.pdf",
+    "anchor_text": "DRDO Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nic.in/new-reg.jsp",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/documents/BEL-Circular-2024.pdf",
+    "anchor_text": "IBPS RRB Officer Scale-I Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://uidai.gov.in/documents/SBI-Notice-2024.pdf",
+    "anchor_text": "SBI Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://dae.gov.in/annual-report",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/careers",
+    "anchor_text": "TSPSC Advertisement No. 17/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/registration/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://twitter.com/lic",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/annual-report",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/current-openings",
+    "anchor_text": "EPFO Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/jobs",
+    "anchor_text": "FCI Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/RBI-Notice-2024.pdf",
+    "anchor_text": "Click here to download RBI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://drdo.gov.in/notifications",
+    "anchor_text": "RBI Advertisement No. 14/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/new-reg.aspx",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/documents/SSC-Notice-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Junior Accountant",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cert-in.org.in/citizen-charter",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://hpclcareers.in/register",
+    "anchor_text": "HPCL Officer Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/ora/candidate",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/ora/candidate.aspx",
+    "anchor_text": "Multi Tasking Staff (MTS) Examination 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ugc.gov.in/careers",
+    "anchor_text": "Latest NTPC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://coalindia.in/register",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/ApplyOnline",
+    "anchor_text": "APPSC Group I Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/positions",
+    "anchor_text": "Latest KVS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/openings",
+    "anchor_text": "Latest BARC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/apply/",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/account/login.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://iocl.com/about",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/sign-up.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/",
+    "anchor_text": "UPSC Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sail.co.in/notifications",
+    "anchor_text": "Latest ONGC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/registration",
+    "anchor_text": "Apply for Head Constable",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rbi.org.in/Scripts/Recruitment/Grade-B-2026.pdf",
+    "anchor_text": "RBI Grade B 2026 Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://indiapost.gov.in/apply",
+    "anchor_text": "Combined Defence Services Examination (CDS) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/acts-rules",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://wa.me/rbi",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/openings",
+    "anchor_text": "KVS Advertisement No. 18/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/ONGC-Notice-2024.pdf",
+    "anchor_text": "Click here to download ONGC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bsnl.co.in/documents/KVS-Recruitment-2026.pdf",
+    "anchor_text": "IBPS PO/MT Recruitment CRP-XIV - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/recruitment",
+    "anchor_text": "APPSC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/candidate/registration/",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/account/login.php",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/annual-report",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/account/login.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/new-reg.aspx",
+    "anchor_text": "Apply for TGT Mathematics",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/documents/BEL-Advertisement-2024.pdf",
+    "anchor_text": "Click here to download BEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://hal-india.co.in/advertisements",
+    "anchor_text": "Walk-in Interview at FCI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://railtelindia.com/documents/NABARD-Notification-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Nursing Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/web/ongcrecruit/careers",
+    "anchor_text": "ONGC Recruitment Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/career",
+    "anchor_text": "BEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/privacy-policy",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/documents/NTPC-Recruitment-2026.pdf",
+    "anchor_text": "Click here to download NTPC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/ECIL-Advertisement-2024.pdf",
+    "anchor_text": "ECIL Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://psc.ap.gov.in/vacancies",
+    "anchor_text": "Walk-in Interview at SAIL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ssc.gov.in/new-reg.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/login.php",
+    "anchor_text": "Apply for Section Officer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/documents/ONGC-Notification-2024.pdf",
+    "anchor_text": "ONGC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cbseresults.nic.in/opportunities",
+    "anchor_text": "Walk-in Interview at NTPC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/documents/BHEL-Notification-2026.pdf",
+    "anchor_text": "Combined Graduate Level Examination (CGL) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/current-openings",
+    "anchor_text": "HAL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ssc.gov.in/online-apply/",
+    "anchor_text": "Apply for Inspector of Posts",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/login.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/documents/GAIL-Notice-2024.pdf",
+    "anchor_text": "DRDO Scientist B Recruitment through RAC 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/documents/SAIL-Advertisement-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Agniveer (General Duty)",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ssc.gov.in/positions",
+    "anchor_text": "BHEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://upsc.gov.in/apply.jsp",
+    "anchor_text": "Apply for Postal Assistant",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/opportunities",
+    "anchor_text": "DMRC Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://uidai.gov.in/applyonline.aspx",
+    "anchor_text": "SEBI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/notice-board",
+    "anchor_text": "ESIC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/jobs",
+    "anchor_text": "NVS Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/advertisements",
+    "anchor_text": "APPSC Advertisement No. 7/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://instagram.com/ibps",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/notifications",
+    "anchor_text": "SEBI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/registration.jsp",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ongcindia.com/tender",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://pinterest.com/aiims",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nic.in/careers/",
+    "anchor_text": "NIC Careers Government IT Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/newreg.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/careers",
+    "anchor_text": "LIC Careers Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aai.aero/current-openings",
+    "anchor_text": "Walk-in Interview at CSIR",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/candidate/registration.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/advertisements",
+    "anchor_text": "BEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://www.cdac.in/index.aspx?id=careers",
+    "anchor_text": "CDAC Careers Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/career",
+    "anchor_text": "ONGC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://uidai.gov.in/advertisements",
+    "anchor_text": "Walk-in Interview at ECIL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/tender",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://hal-india.co.in/career",
+    "anchor_text": "SAIL Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nic.in/notifications",
+    "anchor_text": "Latest SBI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/openings",
+    "anchor_text": "NTPC Advertisement No. 7/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bel-india.in/register.aspx",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://fci.gov.in/candidate/registration/",
+    "anchor_text": "Apply for Degree College Lecturer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/nvs/en/Recruitment/",
+    "anchor_text": "NVS Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://opportunities.rbi.org.in/Scripts/ApplyOnline.aspx",
+    "anchor_text": "RBI Grade B Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://tspsc.gov.in/careers",
+    "anchor_text": "GAIL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sebi.gov.in/opportunities",
+    "anchor_text": "NIELIT Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://pinterest.com/sebi",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/documents/RBI-Circular-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Scientist B",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibps.in/documents/NABARD-Recruitment-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Primary Teacher (PRT)",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ntpc.co.in/signup/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/positions",
+    "anchor_text": "Walk-in Interview at IOCL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notifications",
+    "anchor_text": "GAIL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ongcjobs.co.in/register",
+    "anchor_text": "ONGC GT Apply Online Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/new-reg",
+    "anchor_text": "TSPSC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx",
+    "anchor_text": "RBI Vacancies Current",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/drdo",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://instagram.com/epfo",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://facebook.com/stpi",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/newreg",
+    "anchor_text": "NTA Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/contact",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ntpc.co.in/newreg",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/applyonline.aspx",
+    "anchor_text": "NTPC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nhmmp.gov.in/documents/CDAC-Circular-2026.pdf",
+    "anchor_text": "Indian Forest Service Examination 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ctet.nic.in/documents/CSIR-Notice-2024.pdf",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://linkedin.com/lic",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/privacy-policy",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/jobs",
+    "anchor_text": "FCI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/positions",
+    "anchor_text": "TSPSC Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aai.aero/citizen-charter",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://esic.gov.in/advertisements",
+    "anchor_text": "Latest RRB Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://gailonline.com/notifications",
+    "anchor_text": "NTA Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/career",
+    "anchor_text": "CDAC Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/media",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/current-openings",
+    "anchor_text": "BARC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/recruitment.php",
+    "anchor_text": "FCI Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/documents/RBI-Notification-2025.pdf",
+    "anchor_text": "Click here to download RBI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://wa.me/gail",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://navodaya.gov.in/documents/SSC-Advertisement-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Inspector of Posts",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ssc.gov.in/notice-board",
+    "anchor_text": "SSC Notice Board Latest Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/vacancies",
+    "anchor_text": "SBI Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://navodaya.gov.in/recruitment",
+    "anchor_text": "BEL Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://coalindia.in/login.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/acts-rules",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/index.html",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/citizen-charter",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/privacy-policy",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://facebook.com/hal",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/jobs",
+    "anchor_text": "ISRO Advertisement No. 15/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/newreg.aspx",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://pinterest.com/nielit",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/sitemap",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bank.sbi/advertisements",
+    "anchor_text": "HAL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ecil.co.in/opportunities",
+    "anchor_text": "SBI Advertisement No. 20/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://upsc.gov.in/about",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://iocl.com/notifications",
+    "anchor_text": "BARC Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://railtelindia.com/documents/SEBI-Recruitment-2025.pdf",
+    "anchor_text": "Download Notice: Combined Defence Services Examination (CDS) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nta.ac.in/sign-up.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/ONGC-Circular-2025.pdf",
+    "anchor_text": "Click here to download ONGC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://www.isro.gov.in/media_isro/pdf/Recruitment/ISRO-SAC-Advt-2026.pdf",
+    "anchor_text": "ISRO SAC Scientist Recruitment Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/feedback",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bel-india.in/apply",
+    "anchor_text": "Apply for Grade B Officer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ongcindia.com/contact",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/documents/SAIL-Circular-2024.pdf",
+    "anchor_text": "Download Notice: SEBI Grade A Officer Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ongcindia.com/help",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/opportunities",
+    "anchor_text": "SSC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://t.me/ongc",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/candidate/registration.jsp",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/login/",
+    "anchor_text": "AAI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/recruitment",
+    "anchor_text": "AAI Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ssc.gov.in/assets/notice/SSC-CHSL-2026-Notice.pdf",
+    "anchor_text": "SSC CHSL 2026 Notice PDF Download",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://sail.co.in/new-reg.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/registration/",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://youtube.com/upsc",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://esic.gov.in/contact",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://csir.res.in/vacancies",
+    "anchor_text": "GAIL Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/notice-board",
+    "anchor_text": "LIC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/online-apply.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/Career%20with%20HAL/M__57",
+    "anchor_text": "Career with HAL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://pinterest.com/gail",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://uidai.gov.in/notice-board",
+    "anchor_text": "NTA Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/positions",
+    "anchor_text": "Latest KVS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/",
+    "anchor_text": "Join Indian Army Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/candidate/registration",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/documents/GAIL-Recruitment-2024.pdf",
+    "anchor_text": "GAIL Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/ISRO-Notice-2026.pdf",
+    "anchor_text": "Click here to download ISRO recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/about",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/documents/ISRO-Circular-2024.pdf",
+    "anchor_text": "Download Notice: Combined Graduate Level Examination (CGL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/ora/candidate.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/documents/TSPSC-Notice-2025.pdf",
+    "anchor_text": "Click here to download TSPSC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://epfindia.gov.in/documents/TSPSC-Recruitment-2025.pdf",
+    "anchor_text": "Download Notice: Junior Engineer (JE) Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/notice-board",
+    "anchor_text": "STPI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/registration.php",
+    "anchor_text": "SBI PO Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/AIIMS-Circular-2026.pdf",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nhmmp.gov.in/documents/NIELIT-Recruitment-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Scientist/Engineer SC",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://sail.co.in/documents/NVS-Advertisement-2026.pdf",
+    "anchor_text": "NVS Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ctet.nic.in/apply/",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/careers",
+    "anchor_text": "ONGC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://iocl.com/positions",
+    "anchor_text": "Walk-in Interview at SAIL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/careers",
+    "anchor_text": "BARC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/kvs",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/documents/BEL-Notification-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Assistant",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/documents/SSC-Recruitment-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Group-I Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ntpc.co.in/en/career",
+    "anchor_text": "NTPC Career Opportunities",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergrid.in/documents/RRB-Circular-2025.pdf",
+    "anchor_text": "Click here to download RRB recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://fci.gov.in/vacancies",
+    "anchor_text": "ECIL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/documents/CSIR-Circular-2026.pdf",
+    "anchor_text": "Click here to download CSIR recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bsnl.co.in/citizen-charter",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://esic.gov.in/citizen-charter",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://meity.gov.in/tender",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/tender",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/documents/NABARD-Advertisement-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Head Constable",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/register/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nta.ac.in/register",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/sitemap",
+    "anchor_text": "BEL Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/online-apply.php",
+    "anchor_text": "National Defence Academy (NDA) Examination 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://facebook.com/ongc",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://esic.gov.in/register",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/privacy-policy",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://pinterest.com/esic",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/sign-up",
+    "anchor_text": "Combined Defence Services Examination (CDS) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/openings",
+    "anchor_text": "DRDO Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/jobs",
+    "anchor_text": "Latest LIC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/online-apply",
+    "anchor_text": "ECIL Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://dae.gov.in/applyonline",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/openings",
+    "anchor_text": "Walk-in Interview at AAI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/jobs",
+    "anchor_text": "IBPS Advertisement No. 9/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/signup.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/documents/SAIL-Notification-2025.pdf",
+    "anchor_text": "SBI PO Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/apply.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/web/careers/current-openings",
+    "anchor_text": "SBI Current Openings Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/NABARD-Advertisement-2026.pdf",
+    "anchor_text": "NABARD Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bsnl.co.in/login.aspx",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/disclaimer",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://meity.gov.in/ora/candidate.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/candidate/registration.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/new-reg.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/new-reg",
+    "anchor_text": "Combined Graduate Level Examination (CGL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/ESIC-Advertisement-2026.pdf",
+    "anchor_text": "Junior Engineer (JE) Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://iocl.com/account/login.php",
+    "anchor_text": "Apply for Postal Assistant",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ntpc.co.in/jobs",
+    "anchor_text": "KVS Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/gail",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/account/login.aspx",
+    "anchor_text": "NABARD Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/media",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/NABARD-Notification-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Section Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bel-india.in/online-apply.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://powergrid.in/new-reg.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://youtube.com/sail",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sail.co.in/documents/ESIC-Notification-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Specialist Officer (IT)",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://tspsc.gov.in/notifications/GroupI-2026.pdf",
+    "anchor_text": "TSPSC Group I 2026 Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://uidai.gov.in/help",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://youtube.com/gail",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://esic.gov.in/annual-report",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://stpi.in/register.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/documents/LIC-Notification-2024.pdf",
+    "anchor_text": "LIC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/tender",
+    "anchor_text": "UPSC Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://stpi.in/documents/BEL-Advertisement-2025.pdf",
+    "anchor_text": "BEL Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://licindia.in/account/login.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://wa.me/sebi",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/media",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/signup/",
+    "anchor_text": "SBI Specialist Officer (IT) Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/aiims",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/registration",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/opportunities",
+    "anchor_text": "IOCL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://exams.nta.ac.in/CTET/register",
+    "anchor_text": "CTET Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/documents/CSIR-Notice-2024.pdf",
+    "anchor_text": "CSIR Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://dae.gov.in/documents/HAL-Notification-2025.pdf",
+    "anchor_text": "Click here to download HAL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://isro.gov.in/account/login.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://fci.gov.in/careers",
+    "anchor_text": "Latest UPSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://register-delhi.nielit.gov.in/",
+    "anchor_text": "NIELIT Online Registration Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://epfindia.gov.in/vacancies",
+    "anchor_text": "HAL Advertisement No. 2/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/gallery",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/advertisements",
+    "anchor_text": "AAI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ecil.co.in/ora/candidate.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://indiapost.gov.in/vacancies",
+    "anchor_text": "Walk-in Interview at FCI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/vacancies",
+    "anchor_text": "LIC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/documents/AAI-Advertisement-2025.pdf",
+    "anchor_text": "AAI Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/acts-rules",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/tender",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/index.aspx",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/documents/BHEL-Notice-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Group-II Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://psc.ap.gov.in/documents/ONGC-Circular-2025.pdf",
+    "anchor_text": "ONGC Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://railtelindia.com/documents/AIIMS-Advertisement-2024.pdf",
+    "anchor_text": "SBI Clerk Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://coalindia.in/candidate/registration.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/gallery",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ntpc.co.in/current-openings",
+    "anchor_text": "SEBI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/career",
+    "anchor_text": "Walk-in Interview at NVS",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://youtube.com/nabard",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/career",
+    "anchor_text": "EPFO Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/gail",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://coalindia.in/career/apply",
+    "anchor_text": "Coal India MT Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/account/login.aspx",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/careers",
+    "anchor_text": "HAL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://www.nielit.gov.in/content/recruitment",
+    "anchor_text": "NIELIT Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/applyonline/",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://iocl.com/new-reg.jsp",
+    "anchor_text": "SBI Clerk Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/signup.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/sail",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/signup/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://facebook.com/ibps",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/feedback",
+    "anchor_text": "SSC Feedback Form",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsc.gov.in/career",
+    "anchor_text": "UPSC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/careers",
+    "anchor_text": "NTPC Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/opportunities",
+    "anchor_text": "NIELIT Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/feedback",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/candidate/registration.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/online-apply.jsp",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/notice-board",
+    "anchor_text": "NIC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/documents/NTA-Recruitment-2026.pdf",
+    "anchor_text": "Click here to download NTA recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://indiapost.gov.in/documents/BEL-Recruitment-2026.pdf",
+    "anchor_text": "Download Notice: IBPS RRB Officer Scale-I Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cert-in.org.in/online-apply",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/current-openings",
+    "anchor_text": "TSPSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://delhimetrorail.com/feedback",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/documents/RBI-Advertisement-2026.pdf",
+    "anchor_text": "Click here to download RBI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://meity.gov.in/online-apply",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/documents/GAIL-Circular-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Software Developer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://linkedin.com/nabard",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ntpc.co.in/advertisements",
+    "anchor_text": "Walk-in Interview at NIELIT",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/candidate/registration.jsp",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/documents/SAIL-Advertisement-2025.pdf",
+    "anchor_text": "Download Notice: SBI PO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/jobs",
+    "anchor_text": "ECIL Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/online-apply.php",
+    "anchor_text": "SEBI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rbi.org.in/positions",
+    "anchor_text": "ISRO Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/documents/RRB-Circular-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Junior Resident",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/sign-up/",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/login.jsp",
+    "anchor_text": "Civil Services Examination (CSE) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aai.aero/recruitment",
+    "anchor_text": "STPI Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ssc.gov.in/openings",
+    "anchor_text": "AIIMS Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://coalindia.in/documents/CSIR-Notification-2026.pdf",
+    "anchor_text": "CSIR Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://barc.gov.in/applyonline/",
+    "anchor_text": "IBPS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/positions",
+    "anchor_text": "BARC Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/account/login",
+    "anchor_text": "Apply for Constable",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/documents/RBI-Recruitment-2025.pdf",
+    "anchor_text": "RBI Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/advertisements",
+    "anchor_text": "Latest STPI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/current-openings",
+    "anchor_text": "Walk-in Interview at ONGC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://iocl.com/careers",
+    "anchor_text": "DMRC Advertisement No. 6/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/documents/SSC-Notice-2024.pdf",
+    "anchor_text": "Detailed Advertisement for PGT Computer Science",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nhmmp.gov.in/acts-rules",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/newreg.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://isro.gov.in/apply",
+    "anchor_text": "Apply for Clerk",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/register.php",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/online-apply",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/citizen-charter",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/apply/",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/dmrc",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://facebook.com/nic",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/index.aspx",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/SSC-Notification-2024.pdf",
+    "anchor_text": "Download Notice: IBPS PO/MT Recruitment CRP-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/signup/",
+    "anchor_text": "UPSC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/careers",
+    "anchor_text": "NTA Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://uidai.gov.in/sitemap",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/documents/NVS-Recruitment-2025.pdf",
+    "anchor_text": "Click here to download NVS recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://tspsc.gov.in/opportunities",
+    "anchor_text": "CSIR Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/documents/STPI-Advertisement-2024.pdf",
+    "anchor_text": "Download Notice: Multi Tasking Staff (MTS) Examination 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://pinterest.com/aai",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://wa.me/bhel",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://t.me/drdo",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/documents/SEBI-Recruitment-2024.pdf",
+    "anchor_text": "Click here to download SEBI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://tspsc.gov.in/registration.aspx",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/candidate/registration.php",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://wa.me/fci",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nic.in/help",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/openings",
+    "anchor_text": "DRDO Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/account/login",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://facebook.com/ibps",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/faq",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/sign-up.php",
+    "anchor_text": "RBI Grade B Officer Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/login.aspx",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/documents/EPFO-Notice-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Constable",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/advertisements",
+    "anchor_text": "RBI Advertisement No. 17/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/citizen-charter",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dae.gov.in/notifications",
+    "anchor_text": "EPFO Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/ora/candidate.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/career",
+    "anchor_text": "Latest ESIC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ecil.co.in/advertisements",
+    "anchor_text": "NIELIT Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://instagram.com/isro",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/opportunities",
+    "anchor_text": "Latest KVS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/career",
+    "anchor_text": "Walk-in Interview at IOCL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nic.in/index.aspx",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/recruitment",
+    "anchor_text": "ESIC Advertisement No. 6/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/sebi",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/candidate/registration.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/online-apply.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bhel.com/gallery",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bank.sbi/citizen-charter",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://iocl.com/register",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rbi.org.in/documents/APPSC-Recruitment-2024.pdf",
+    "anchor_text": "Download Notice: Junior Engineer (JE) Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cdac.in/sign-up.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://login.nabard.org/apply",
+    "anchor_text": "NABARD Grade A Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://wa.me/ecil",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/positions",
+    "anchor_text": "AIIMS Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/signup.jsp",
+    "anchor_text": "Apply for Agniveer (General Duty)",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://coalindia.in/notifications",
+    "anchor_text": "ISRO Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cdac.in/login.php",
+    "anchor_text": "Apply for Inspector of Posts",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/documents/AAI-Recruitment-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Scientist B",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://fci.gov.in/notifications",
+    "anchor_text": "DMRC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bhel.com/documents/SAIL-Notice-2024.pdf",
+    "anchor_text": "Download Notice: LIC AAO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://www.isro.gov.in/",
+    "anchor_text": "ISRO Indian Space Research Organisation",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://linkedin.com/nic",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://wa.me/sbi",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ongcindia.com/applyonline.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://dae.gov.in/recruitment",
+    "anchor_text": "GAIL Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/vacancies",
+    "anchor_text": "CDAC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://delhimetrorail.com/advertisements",
+    "anchor_text": "AIIMS Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/documents/BARC-Advertisement-2024.pdf",
+    "anchor_text": "Indian Forest Service Examination 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://licindia.in/advertisements",
+    "anchor_text": "STPI Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://onlineexam.sebi.gov.in/register",
+    "anchor_text": "SEBI Grade A Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/careers",
+    "anchor_text": "BEL Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergrid.in/online-apply.php",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aai.aero/registration",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://tspsc.gov.in/new-reg",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/documents/ESIC-Notice-2026.pdf",
+    "anchor_text": "Click here to download ESIC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aai.aero/register.aspx",
+    "anchor_text": "Apply for Scientist/Engineer SC",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nabard.org/applyonline.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/documents/ONGC-Notification-2026.pdf",
+    "anchor_text": "Click here to download ONGC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibpsonline.ibps.in/crp-po-nov26/registration.php",
+    "anchor_text": "IBPS PO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ugc.gov.in/openings",
+    "anchor_text": "FCI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://navodaya.gov.in/index.html",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ugc.gov.in/notifications",
+    "anchor_text": "GAIL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://navodaya.gov.in/citizen-charter",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/careers",
+    "anchor_text": "Walk-in Interview at NTPC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/documents/BARC-Advertisement-2026.pdf",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ecil.co.in/documents/AAI-Advertisement-2025.pdf",
+    "anchor_text": "Click here to download AAI recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://barc.gov.in/positions",
+    "anchor_text": "Latest IBPS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/jobs",
+    "anchor_text": "AAI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/advertisements",
+    "anchor_text": "Walk-in Interview at BEL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/vacancies",
+    "anchor_text": "NIC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rbi.org.in/documents/SAIL-Recruitment-2025.pdf",
+    "anchor_text": "Click here to download SAIL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/contact",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/feedback",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/privacy-policy",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/rti",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/new-reg/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/candidate/registration.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/IOCL-Recruitment-2024.pdf",
+    "anchor_text": "Download Notice: National Defence Academy (NDA) Examination 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://drdo.gov.in/candidate/registration.aspx",
+    "anchor_text": "IBPS Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/documents/APPSC-Circular-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Management Trainee",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://coalindia.in/gallery",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/notice-board",
+    "anchor_text": "NTA Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cert-in.org.in/jobs",
+    "anchor_text": "NTA Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/registration.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/documents/RRB-Circular-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Clerk",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://facebook.com/epfo",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/apply.php",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://pinterest.com/hal",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/register.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/index.html",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/feedback",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/documents/CSIR-Circular-2025.pdf",
+    "anchor_text": "Click here to download CSIR recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cert-in.org.in/vacancies",
+    "anchor_text": "Latest FCI Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://dae.gov.in/documents/NIELIT-Circular-2026.pdf",
+    "anchor_text": "LIC AAO Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://tspsc.gov.in/documents/GAIL-Notification-2025.pdf",
+    "anchor_text": "IBPS Clerk Recruitment CRP Clerks-XIV - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://hal-india.co.in/acts-rules",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/vacancies",
+    "anchor_text": "TSPSC Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://pinterest.com/bel",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/documents/NTPC-Circular-2026.pdf",
+    "anchor_text": "Click here to download NTPC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/SAIL-Advertisement-2026.pdf",
+    "anchor_text": "SAIL Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/recruitment",
+    "anchor_text": "STPI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://dae.gov.in/documents/IBPS-Recruitment-2026.pdf",
+    "anchor_text": "IBPS PO/MT Recruitment CRP-XIV - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibps.in/documents/SAIL-Circular-2024.pdf",
+    "anchor_text": "Download Notice: LIC ADO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nielit.gov.in/apply.php",
+    "anchor_text": "BHEL Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/new-reg/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bsnl.co.in/signup/",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/documents/SAIL-Notice-2025.pdf",
+    "anchor_text": "Click here to download SAIL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://delhimetrorail.com/tender",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sail.co.in/documents/UPSC-Advertisement-2025.pdf",
+    "anchor_text": "Download Notice: IBPS PO/MT Recruitment CRP-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ecil.co.in/career",
+    "anchor_text": "RRB Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/documents/AIIMS-Recruitment-2024.pdf",
+    "anchor_text": "AIIMS Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/ora/candidate/",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/advertisements",
+    "anchor_text": "SSC Advertisement No. 4/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://onlineapply.iocl.com/register",
+    "anchor_text": "IOCL Engineer Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/disclaimer",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/faq",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://dfrccil.indianrailways.gov.in/register",
+    "anchor_text": "Railway JE Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ecil.co.in/acts-rules",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/documents/STPI-Advertisement-2024.pdf",
+    "anchor_text": "Civil Services Examination (CSE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bank.sbi/documents/EPFO-Recruitment-2025.pdf",
+    "anchor_text": "Engineering Services Examination (ESE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://facebook.com/appsc",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/candidate/registration",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ecil.co.in/login",
+    "anchor_text": "RBI Security Guard Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aai.aero/en/careers",
+    "anchor_text": "AAI Careers Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://t.me/epfo",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://iocl.com/online-apply.jsp",
+    "anchor_text": "BEL Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/login.aspx",
+    "anchor_text": "IBPS PO/MT Recruitment CRP-XIV - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/apply/",
+    "anchor_text": "Apply for Scientist/Engineer SC",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://delhimetrorail.com/about",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://coalindia.in/documents/BHEL-Notice-2025.pdf",
+    "anchor_text": "BHEL Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nta.ac.in/jobs",
+    "anchor_text": "NIC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/documents/EPFO-Notification-2026.pdf",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nta.ac.in/opportunities",
+    "anchor_text": "ONGC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://csir.res.in/career",
+    "anchor_text": "RBI Advertisement No. 20/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/positions",
+    "anchor_text": "IBPS Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/new-reg.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://stpi.in/online-apply/",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/candidate/registration.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://recruitment.cdac.in/register",
+    "anchor_text": "CDAC Project Engineer Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/signup.aspx",
+    "anchor_text": "National Defence Academy (NDA) Examination 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/candidate/registration.jsp",
+    "anchor_text": "Apply for Sub Inspector",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://psc.ap.gov.in/faq",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/documents/LIC-Recruitment-2026.pdf",
+    "anchor_text": "LIC Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://recruitment.stpi.in/register",
+    "anchor_text": "STPI Online Registration Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/documents/ISRO-Circular-2024.pdf",
+    "anchor_text": "ISRO Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://wa.me/rrb",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/tender",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/recruitment",
+    "anchor_text": "TSPSC Advertisement No. 16/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/candidate/registration/",
+    "anchor_text": "SEBI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/candidate/registration/",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/feedback",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/new-reg",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/career",
+    "anchor_text": "CSIR Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://iocl.com/jobs",
+    "anchor_text": "BARC Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/recruitment",
+    "anchor_text": "NVS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://railtelindia.com/index.html",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://isro.gov.in/signup.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://instagram.com/stpi",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://coalindia.in/signup.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nta.ac.in/advertisements",
+    "anchor_text": "STPI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergridjobs.co.in/register",
+    "anchor_text": "PowerGrid ET Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/tender",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/documents/AIIMS-Advertisement-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Management Trainee",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://linkedin.com/nic",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ecil.co.in/notifications",
+    "anchor_text": "SAIL Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://wa.me/bhel",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/register/",
+    "anchor_text": "Combined Graduate Level Examination (CGL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/account/login.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/newreg.php",
+    "anchor_text": "Stenographer Grade C & D Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sail.co.in/contact",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bsnl.co.in/openings",
+    "anchor_text": "ONGC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://dae.gov.in/sign-up.jsp",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nta.ac.in/careers",
+    "anchor_text": "LIC Notification 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bel-india.in/recruitment",
+    "anchor_text": "GAIL Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/index.aspx",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/account/login.php",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/openings",
+    "anchor_text": "AAI Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/vacancies",
+    "anchor_text": "RRB Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://psc.ap.gov.in/feedback",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/documents/IBPS-Notice-2024.pdf",
+    "anchor_text": "Download Notice: LIC ADO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://drdo.gov.in/tender",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://csir.res.in/privacy-policy",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/positions",
+    "anchor_text": "Latest NTPC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://tspsc.gov.in/",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/GAIL-Notification-2026.pdf",
+    "anchor_text": "RBI Assistant Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://sail.co.in/feedback",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nic.in/jobs",
+    "anchor_text": "Latest EPFO Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/documents/BARC-Circular-2026.pdf",
+    "anchor_text": "Download Notice: SEBI Grade A Officer Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://iocl.com/help",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://meity.gov.in/documents/CSIR-Notification-2025.pdf",
+    "anchor_text": "SEBI Grade A Officer Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ntpc.co.in/career",
+    "anchor_text": "BHEL Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/bel",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://gailonline.com/careers",
+    "anchor_text": "RRB Advertisement No. 1/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://delhimetrorail.com/signup.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://coalindia.in/login.jsp",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/faq",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://epfindia.gov.in/disclaimer",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://powergrid.in/opportunities",
+    "anchor_text": "Walk-in Interview at SAIL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/documents/CDAC-Notification-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Gramin Dak Sevak",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ntpc.co.in/notice-board",
+    "anchor_text": "DRDO Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/documents/SSC-Notice-2025.pdf",
+    "anchor_text": "Download Notice: Combined Graduate Level Examination (CGL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ctet.nic.in/sitemap",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nta.ac.in/documents/GAIL-Recruitment-2026.pdf",
+    "anchor_text": "Detailed Advertisement for Staff Nurse",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cdac.in/feedback",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://facebook.com/nielit",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/documents/UPSC-Advertisement-2024.pdf",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/apply.aspx",
+    "anchor_text": "ESIC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://apply.hal-india.co.in/careers",
+    "anchor_text": "HAL Online Application Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ecil.co.in/jobs/",
+    "anchor_text": "ECIL Jobs Current Openings",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://www.isro.gov.in/Careers.html",
+    "anchor_text": "ISRO Careers Current Openings",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/newreg.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://meity.gov.in/current-openings",
+    "anchor_text": "NTA Advertisement No. 14/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/index.html",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/newreg/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/sebi",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nielit.gov.in/gallery",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/current-openings",
+    "anchor_text": "ECIL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/newreg",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/careers",
+    "anchor_text": "RBI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notice-board",
+    "anchor_text": "RBI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/career-notices.aspx",
+    "anchor_text": "NABARD Career Notices",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/documents/BARC-Notice-2024.pdf",
+    "anchor_text": "Download Notice: Combined Defence Services Examination (CDS) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://coalindia.in/current-openings",
+    "anchor_text": "HAL Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://tspsc.gov.in/documents/DRDO-Notification-2025.pdf",
+    "anchor_text": "IBPS SO Specialist Officer Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/career",
+    "anchor_text": "IBPS Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/new-reg/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/opportunities",
+    "anchor_text": "HAL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/login.php",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/account/login.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://linkedin.com/bel",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://uidai.gov.in/registration.jsp",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/login/",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://delhimetrorail.com/registration.aspx",
+    "anchor_text": "Apply for Group-I Officer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://epfindia.gov.in/gallery",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bank.sbi/documents/TSPSC-Advertisement-2025.pdf",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://iocl.com/working-with-iocl",
+    "anchor_text": "IOCL Working with IOCL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://tspsc.gov.in/documents/NABARD-Advertisement-2025.pdf",
+    "anchor_text": "NABARD Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aai.aero/login.php",
+    "anchor_text": "NIELIT Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/media",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://uidai.gov.in/vacancies",
+    "anchor_text": "AIIMS Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/rti",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/documents/LIC-Circular-2024.pdf",
+    "anchor_text": "Download Notice: LIC ADO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://fci.gov.in/documents/DMRC-Circular-2025.pdf",
+    "anchor_text": "Download Notice: Multi Tasking Staff (MTS) Examination 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://t.me/ecil",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://pinterest.com/nic",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ongcindia.com/applyonline",
+    "anchor_text": "Apply for Head Constable",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/feedback",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/apply.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/positions",
+    "anchor_text": "LIC Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://wa.me/tspsc",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/tender",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nta.ac.in/tender",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://hal-india.co.in/career",
+    "anchor_text": "Latest AIIMS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/account/login.php",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rbi.org.in/sitemap",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsc.gov.in/index.aspx",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sebi.gov.in/online-apply.aspx",
+    "anchor_text": "ONGC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://career.ntpc.co.in/register",
+    "anchor_text": "NTPC ET Apply Registration Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://linkedin.com/gail",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://sail.co.in/documents/NTPC-Advertisement-2026.pdf",
+    "anchor_text": "Click here to download NTPC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://linkedin.com/ibps",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/newreg.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/applyonline.jsp",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cris.org.in/apply/register",
+    "anchor_text": "CRIS Developer Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/disclaimer",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/apply.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://stpi.in/register.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/documents/LIC-Recruitment-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Junior Analyst",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://psc.ap.gov.in/Documents/notifications/GroupI-2026.pdf",
+    "anchor_text": "APPSC Group I Notification 2026 PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/recruitment",
+    "anchor_text": "NTPC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/appsc",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://indiapost.gov.in/advertisements",
+    "anchor_text": "Latest AIIMS Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://stpi.in/candidate/registration.jsp",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/feedback",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/registration",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibpsonline.ibps.in/crp-so-nov26/registration.php",
+    "anchor_text": "IBPS SO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/jobs",
+    "anchor_text": "ISRO Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://iocl.com/newreg.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/register",
+    "anchor_text": "Apply for Constable",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://linkedin.com/company/drdo",
+    "anchor_text": "DRDO LinkedIn Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/account/login.aspx",
+    "anchor_text": "Apply for Junior Engineer (Civil/Mechanical/Electrical/IT)",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/positions",
+    "anchor_text": "Walk-in Interview at BHEL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://delhimetrorail.com/notifications",
+    "anchor_text": "DRDO Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://exams.nta.ac.in/UGC-NET/register",
+    "anchor_text": "NTA UGC NET Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ugc.gov.in/new-reg.php",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://careers.ecil.co.in/login.php",
+    "anchor_text": "ECIL GET Registration Login",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/",
+    "anchor_text": "Staff Selection Commission Home",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cbseresults.nic.in/career",
+    "anchor_text": "DRDO Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/sebi",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/new-reg.php",
+    "anchor_text": "SBI Clerk Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/contact-us",
+    "anchor_text": "Contact SSC Regional Offices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://t.me/aai",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ctet.nic.in/documents/SEBI-Circular-2025.pdf",
+    "anchor_text": "SEBI Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nabard.org/new-reg.jsp",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/feedback",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://joinindiannavy.gov.in/positions",
+    "anchor_text": "EPFO Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ibps.in/wp-content/uploads/CRP-PO-XIV-Notification.pdf",
+    "anchor_text": "IBPS PO XIV Detailed Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/about-us",
+    "anchor_text": "About UPSC Commission",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ibps.in/notifications",
+    "anchor_text": "NTPC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://instagram.com/dmrc",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bhel.com/faq",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/ESIC-Notice-2026.pdf",
+    "anchor_text": "ESIC Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://epfindia.gov.in/index.aspx",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/",
+    "anchor_text": "RRB Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/vacancies",
+    "anchor_text": "ONGC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/documents/BEL-Notification-2025.pdf",
+    "anchor_text": "Click here to download BEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bsnl.co.in/openings",
+    "anchor_text": "APPSC Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://licindia.in/",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/assets/notice/SSC-CGL-2026-Notification.pdf",
+    "anchor_text": "SSC CGL 2026 Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cbseresults.nic.in/notice-board",
+    "anchor_text": "CDAC Advertisement No. 13/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ctet.nic.in/register",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/annual-report",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/documents/FCI-Notification-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Constable",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://youtube.com/rrb",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsc.gov.in/careers",
+    "anchor_text": "Walk-in Interview at EPFO",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/nabard",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/current-openings",
+    "anchor_text": "SSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/careers",
+    "anchor_text": "Walk-in Interview at STPI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/current-openings",
+    "anchor_text": "Latest ESIC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/documents/HAL-Notification-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Technician B",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/new-reg/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/sitemap",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://indiapost.gov.in/documents/RBI-Notification-2026.pdf",
+    "anchor_text": "Download Notice: ISRO Scientist/Engineer SC Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://csir.res.in/help",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/privacy-policy",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://www.ibps.in/",
+    "anchor_text": "IBPS Recruitment CRP Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/NIELIT-Circular-2026.pdf",
+    "anchor_text": "Download Notice: ISRO Scientist/Engineer SC Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nabard.org/recruitment",
+    "anchor_text": "Latest ESIC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/applyonline.php",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://application.fci.gov.in/register",
+    "anchor_text": "FCI Manager Apply Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/vacancies",
+    "anchor_text": "HAL Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://gailonline.com/documents/LIC-Notice-2024.pdf",
+    "anchor_text": "LIC Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/login.php",
+    "anchor_text": "Apply for Software Developer",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ctet.nic.in/vacancies",
+    "anchor_text": "ECIL Advertisement No. 11/2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/KVS-Notice-2024.pdf",
+    "anchor_text": "Download Notice: LIC AAO Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://stpi.in/documents/IOCL-Recruitment-2026.pdf",
+    "anchor_text": "IOCL Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://uidai.gov.in/newreg.php",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://twitter.com/stpi",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://cdac.in/applyonline.jsp",
+    "anchor_text": "RBI Assistant Recruitment 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/acts-rules",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/opportunities",
+    "anchor_text": "DMRC Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/documents/NIC-Circular-2024.pdf",
+    "anchor_text": "Download Notice: DRDO CEPTAM Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cert-in.org.in/faq",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/media",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsc.gov.in/sites/default/files/Advt-06-2026-engl.pdf",
+    "anchor_text": "UPSC Advertisement No. 06/2026 PDF Download",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://hal-india.co.in/newreg",
+    "anchor_text": "DRDO Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nielit.gov.in/documents/BHEL-Recruitment-2026.pdf",
+    "anchor_text": "Click here to download BHEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ecil.co.in/documents/BEL-Recruitment-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Research Engineer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://youtube.com/ntpc",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/login",
+    "anchor_text": "SSC Login and Apply Portal",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ssc.gov.in/documents/IBPS-Recruitment-2025.pdf",
+    "anchor_text": "IBPS Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/apply",
+    "anchor_text": "NVS Teacher Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/recruitment",
+    "anchor_text": "HAL Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/NTA-Circular-2024.pdf",
+    "anchor_text": "Click here to download NTA recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://youtube.com/iocl",
+    "anchor_text": "Important Links",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/documents/HAL-Recruitment-2026.pdf",
+    "anchor_text": "Download Notice: Multi Tasking Staff (MTS) Examination 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsconline.nic.in/ora/candidate/login.php",
+    "anchor_text": "UPSC ORA Login Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/documents/RBI-Circular-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Section Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://meity.gov.in/notice-board",
+    "anchor_text": "IBPS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://stpi.in/opportunities",
+    "anchor_text": "AIIMS Advertisement No. 6/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/documents/ISRO-Notification-2024.pdf",
+    "anchor_text": "ISRO Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nic.in/privacy-policy",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://meity.gov.in/candidate/registration.aspx",
+    "anchor_text": "NIC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://fci.gov.in/contact",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/careers",
+    "anchor_text": "SAIL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://indiapost.gov.in/registration.php",
+    "anchor_text": "RRB Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rac.gov.in/career",
+    "anchor_text": "IBPS Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://isro.gov.in/tender",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/current-openings",
+    "anchor_text": "STPI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://indiapost.gov.in/documents/SSC-Recruitment-2026.pdf",
+    "anchor_text": "Engineering Services Examination (ESE) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nic.in/career",
+    "anchor_text": "Latest UPSC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://coalindia.in/index.aspx",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/signup.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/NABARD-Recruitment-2026.pdf",
+    "anchor_text": "Download Notice: IBPS PO/MT Recruitment CRP-XIV",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://cdac.in/apply/",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nic.in/privacy-policy",
+    "anchor_text": "NIC Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/notice-board",
+    "anchor_text": "NTA Recruitment Drive 2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/new-reg.jsp",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://uidai.gov.in/rti",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://coalindia.in/account/login.php",
+    "anchor_text": "ESIC Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://esic.gov.in/documents/ESIC-Notice-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Section Officer",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://nabard.org/newreg.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cert-in.org.in/help",
+    "anchor_text": "Home Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://uidai.gov.in/rti",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/apply.php",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/nabard",
+    "anchor_text": "Site Map",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nabard.org/notifications",
+    "anchor_text": "STPI Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/openings",
+    "anchor_text": "RBI Advertisement No. 15/2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://exams.nta.ac.in/JEE-MAIN/register",
+    "anchor_text": "JEE Main Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/help.aspx",
+    "anchor_text": "HAL Help FAQ Section",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://hal-india.co.in/media",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://linkedin.com/sbi",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/account/login",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/current-openings",
+    "anchor_text": "RBI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://indiapost.gov.in/documents/BEL-Notification-2025.pdf",
+    "anchor_text": "Click here to download BEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://psc.ap.gov.in/positions",
+    "anchor_text": "Walk-in Interview at NTA",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://fci.gov.in/advertisements",
+    "anchor_text": "NTA Advertisement No. 20/2025",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://epfindia.gov.in/signup.jsp",
+    "anchor_text": "Login to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://online.drdo.gov.in/drdoentry/register.aspx",
+    "anchor_text": "DRDO Scientist Apply Register",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cbseresults.nic.in/vacancies",
+    "anchor_text": "BHEL Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://gailonline.com/documents/EPFO-Circular-2024.pdf",
+    "anchor_text": "Click here to download EPFO recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aai.aero/tender",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://delhimetrorail.com/ora/candidate/",
+    "anchor_text": "RRB Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/faq",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/advertisements",
+    "anchor_text": "KVS Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://indiapost.gov.in/openings",
+    "anchor_text": "Latest CDAC Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://barc.gov.in/documents/CDAC-Notification-2026.pdf",
+    "anchor_text": "Download Notice: IBPS RRB Officer Scale-I Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://coalindia.in/openings",
+    "anchor_text": "GAIL Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rac.gov.in/openings",
+    "anchor_text": "Latest BHEL Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://drdo.gov.in/documents/BARC-Notice-2024.pdf",
+    "anchor_text": "Download Notice: Combined Graduate Level Examination (CGL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://www.isro.gov.in/gallery",
+    "anchor_text": "ISRO Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://indiapost.gov.in/jobs",
+    "anchor_text": "AAI Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://sail.co.in/opportunities",
+    "anchor_text": "SSC Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/sign-up.jsp",
+    "anchor_text": "Apply for PGT Computer Science",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://powergrid.in/gallery",
+    "anchor_text": "Contact Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/contact",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://barc.gov.in/documents/NIELIT-Circular-2026.pdf",
+    "anchor_text": "NIELIT Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://isro.gov.in/documents/CSIR-Circular-2026.pdf",
+    "anchor_text": "LIC ADO Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/disclaimer",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/careers",
+    "anchor_text": "BEL Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bank.sbi/documents/BHEL-Recruitment-2024.pdf",
+    "anchor_text": "Click here to download BHEL recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibps.in/feedback",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://licindia.in/new-reg/",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://joinindianarmy.nic.in/apply.jsp",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://t.me/rbi",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://iocl.com/current-openings",
+    "anchor_text": "NIELIT Vacancy Circular",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/current-openings",
+    "anchor_text": "IOCL Current Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/login/",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bel-india.in/documents/HAL-Recruitment-2025.pdf",
+    "anchor_text": "Detailed Advertisement for Stenographer Grade C",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://ibps.in/career",
+    "anchor_text": "Walk-in Interview at NIC",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nabard.org/advertisements",
+    "anchor_text": "Walk-in Interview at NTA",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ugc.gov.in/rti",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/rti",
+    "anchor_text": "DRDO RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://upsc.gov.in/index.html",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bank.sbi/ora/candidate",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://railtelindia.com/documents/KVS-Notice-2026.pdf",
+    "anchor_text": "Download Notice: IBPS SO Specialist Officer Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://pinterest.com/kvs",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://railtelindia.com/media",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://t.me/esic",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://fci.gov.in/notifications",
+    "anchor_text": "IOCL Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ntpc.co.in/sites/default/files/ET-GATE-2026.pdf",
+    "anchor_text": "NTPC ET through GATE 2026 PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bel-india.in/registration.aspx",
+    "anchor_text": "Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://ibps.in/documents/ISRO-Circular-2026.pdf",
+    "anchor_text": "Click here to download ISRO recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://delhimetrorail.com/documents/HAL-Notice-2026.pdf",
+    "anchor_text": "IBPS Clerk Recruitment CRP Clerks-XIV - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://psc.ap.gov.in/aboutUs",
+    "anchor_text": "About APPSC History",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/openings",
+    "anchor_text": "IBPS Careers",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bsnl.co.in/documents/DRDO-Circular-2024.pdf",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bel-india.in/faq",
+    "anchor_text": "Annual Report",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://hal-india.co.in/registration",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://cdac.in/index.aspx?id=about",
+    "anchor_text": "About CDAC Organisation",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/notice-board",
+    "anchor_text": "NIC Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://meity.gov.in/feedback",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aai.aero/documents/SEBI-Advertisement-2024.pdf",
+    "anchor_text": "SEBI Official Notification PDF 2024",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://isro.gov.in/documents/AIIMS-Recruitment-2024.pdf",
+    "anchor_text": "ISRO Scientist/Engineer SC Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://gailonline.com/faq",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://drdo.gov.in/account/login.php",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://licindia.in/recruitment",
+    "anchor_text": "Walk-in Interview at HAL",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://powergrid.in/apply",
+    "anchor_text": "Apply for Panchayat Secretary",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://railtelindia.com/openings",
+    "anchor_text": "SSC Recruitment Drive 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://youtube.com/nic",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/disclaimer",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rectt.isro.gov.in/registration",
+    "anchor_text": "ISRO Scientist Registration Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://drdo.gov.in/signup.php",
+    "anchor_text": "Civil Services Examination (CSE) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://iocl.com/documents/UPSC-Notice-2024.pdf",
+    "anchor_text": "Detailed Advertisement for Head Constable",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://upsc.gov.in/jobs",
+    "anchor_text": "NTA Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://facebook.com/iocl",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://uidai.gov.in/applyonline.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://nta.ac.in/",
+    "anchor_text": "NTA Examination Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://nhmmp.gov.in/faq",
+    "anchor_text": "About Us",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://kvsangathan.nic.in/careers",
+    "anchor_text": "KVS Recruitment Teacher Vacancies",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://hal-india.co.in/documents/TSPSC-Advertisement-2025.pdf",
+    "anchor_text": "TSPSC Official Notification PDF 2025",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://stpi.in/applyonline.aspx",
+    "anchor_text": "Online Application Form",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://navodaya.gov.in/applyonline/",
+    "anchor_text": "FCI Apply Online Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://hal-india.co.in/disclaimer",
+    "anchor_text": "Feedback",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://instagram.com/iocl",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/registration.aspx",
+    "anchor_text": "Register Now",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://sebi.gov.in/career",
+    "anchor_text": "AAI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://csir.res.in/newreg/",
+    "anchor_text": "Apply for Executive Trainee",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://upsc.gov.in/documents/UPSC-Advertisement-2025.pdf",
+    "anchor_text": "Download Notice: Civil Services Examination (CSE) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://isro.gov.in/faq",
+    "anchor_text": "Accessibility Statement",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://bhel.com/documents/HAL-Notification-2024.pdf",
+    "anchor_text": "Download Notice: ISRO Technician B Recruitment 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://tspsc.gov.in/positions",
+    "anchor_text": "Latest NABARD Jobs",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://bel-india.in/documents/BARC-Notice-2025.pdf",
+    "anchor_text": "ISRO Scientist/Engineer SC Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://bel-india.in/feedback",
+    "anchor_text": "Photo Gallery",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://instagram.com/csir",
+    "anchor_text": "Acts & Rules",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/registration.jsp",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://instagram.com/sebi",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rbi.org.in/notice-board",
+    "anchor_text": "Walk-in Interview at AAI",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://csir.res.in/documents/TSPSC-Notification-2024.pdf",
+    "anchor_text": "Click here to download TSPSC recruitment notification",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://coalindia.in/index.aspx",
+    "anchor_text": "Citizen Charter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/documents/STPI-Recruitment-2025.pdf",
+    "anchor_text": "LIC ADO Recruitment 2026 - Download Notification PDF",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://pinterest.com/aai",
+    "anchor_text": "Share on Twitter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/index.html",
+    "anchor_text": "SSC Main Page",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://tspsc.gov.in/TSPSCWEB/Recruitment.jsp",
+    "anchor_text": "TSPSC Recruitment Notifications",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://esic.gov.in/citizen-charter",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://rac.gov.in/notice-board",
+    "anchor_text": "FCI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ssc.gov.in/notice-board",
+    "anchor_text": "UPSC Notification 2026",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://www.joinindiannavy.gov.in/en/account/login",
+    "anchor_text": "Indian Navy Candidate Login Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://barc.gov.in/online-apply",
+    "anchor_text": "New Registration",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/apply.aspx",
+    "anchor_text": "Combined Higher Secondary Level Examination (CHSL) 2026 - Apply Online",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://gailonline.com/tender",
+    "anchor_text": "Subscribe to Newsletter",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ongcindia.com/vacancies",
+    "anchor_text": "AAI Recruitment",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://ecil.co.in/documents/ECIL-Notification-2025.pdf",
+    "anchor_text": "Download Notice: Combined Higher Secondary Level Examination (CHSL) 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://instagram.com/indianarmy",
+    "anchor_text": "Indian Army Instagram",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://linkedin.com/sebi",
+    "anchor_text": "Help & FAQ",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://indiapost.gov.in/sitemap",
+    "anchor_text": "Privacy Policy",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/citizen-charter",
+    "anchor_text": "RTI Information",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://aiimsexams.ac.in/citizen-charter",
+    "anchor_text": "Disclaimer",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ongcindia.com/documents/ISRO-Notice-2026.pdf",
+    "anchor_text": "ISRO Official Notification PDF 2026",
+    "label": 2,
+    "label_name": "NOTIFICATION_PDF"
+  },
+  {
+    "url": "https://navodaya.gov.in/candidate/registration.aspx",
+    "anchor_text": "Click Here to Apply",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://rrbcdg.gov.in/career",
+    "anchor_text": "SSC Notification 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://iocl.com/newreg.php",
+    "anchor_text": "Submit Application",
+    "label": 0,
+    "label_name": "DIRECT_APPLY"
+  },
+  {
+    "url": "https://bank.sbi/index.html",
+    "anchor_text": "Follow us on Facebook",
+    "label": 3,
+    "label_name": "IGNORE"
+  },
+  {
+    "url": "https://ssc.gov.in/notifications",
+    "anchor_text": "EPFO Recruitment Drive 2024",
+    "label": 1,
+    "label_name": "CAREER_PAGE"
+  },
+  {
+    "url": "https://linkedin.com/iocl",
+    "anchor_text": "Tender Notices",
+    "label": 3,
+    "label_name": "IGNORE"
+  }
+]

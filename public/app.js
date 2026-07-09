@@ -821,29 +821,29 @@
     // Theme toggle
     document.getElementById('theme-toggle').addEventListener('click', () => applyTheme(state.theme === 'dark' ? 'light' : 'dark'));
 
-    // AI/ML Sync Portal Data
+    // AI/ML Sync Portal Data (59+ portals)
     const syncBtn = document.getElementById('sync-ai-btn');
     if (syncBtn) {
       syncBtn.addEventListener('click', async () => {
         try {
           syncBtn.disabled = true;
-          syncBtn.textContent = '⏳ Syncing via AI...';
-          showToast('🤖 AI Crawler starting... scraping and extracting direct apply links');
+          syncBtn.textContent = '⏳ Scraping 59+ portals...';
+          showToast('🤖 AI scraping 59+ government portals for live notifications...');
           
           const r = await fetch('/api/jobs/sync-ai', { method: 'POST' });
           const res = await r.json();
           
           if (res.success) {
-            showToast(`🎉 Sync complete! Loaded ${res.count} live job cards using AI model`);
+            const errCount = (res.errors && res.errors.length) || 0;
+            showToast(`🎉 Scraped ${res.portalsScraped || '59+'} portals — found ${res.totalFound || res.count} jobs, saved ${res.count} new`);
             await Promise.all([fetchStats(), fetchITJobs(), fetchAllJobsForCalendar()]);
-            // Re-render based on active tab
             if (state.activeTab === 'it-jobs') renderJobCards('it-jobs-grid', state.itJobs);
             else if (state.activeTab === 'all-jobs') fetchAllJobs();
           } else {
             showToast(`❌ Sync failed: ${res.error || 'Unknown error'}`);
           }
         } catch (err) {
-          showToast('❌ Sync failed: AI service offline');
+          showToast('❌ Sync failed: AI service offline — start FastAPI with: python -m uvicorn main:app --app-dir ai-service --port 8000');
           console.error(err);
         } finally {
           syncBtn.disabled = false;

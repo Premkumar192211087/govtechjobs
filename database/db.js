@@ -251,6 +251,27 @@ async function getStats() {
   };
 }
 
+/**
+ * Clear all jobs from the database (used before a full AI resync)
+ */
+async function clearAllJobs() {
+  if (useInMemory) {
+    const count = memoryStore.jobs.length;
+    memoryStore.jobs = [];
+    logger.info('Database', `Cleared ${count} jobs from memory store`);
+    return count;
+  } else {
+    try {
+      const res = await pool.query('DELETE FROM jobs');
+      logger.info('Database', `Cleared ${res.rowCount} jobs from PostgreSQL`);
+      return res.rowCount;
+    } catch (err) {
+      logger.error('Database', 'Error clearing jobs from Postgres', { error: err.message });
+      return 0;
+    }
+  }
+}
+
 module.exports = {
   initDatabase,
   getJobs,
@@ -260,5 +281,7 @@ module.exports = {
   getPortals,
   getPortalByShortName,
   getStats,
-  saveJob
+  saveJob,
+  clearAllJobs
 };
+
