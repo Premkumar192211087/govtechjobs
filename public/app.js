@@ -882,8 +882,27 @@
     initBackToTop();
     initGlobalListeners();
     await Promise.all([fetchStats(), fetchITJobs(), fetchAllJobsForCalendar()]);
+
+    // Auto-retry on cold start: if 0 jobs, scrapers may still be running
+    if (state.itTotal === 0 && state.allTotal === 0) {
+      console.log('[GovTechJobs] No jobs found on cold start — triggering scrape and retrying in 10s...');
+      // Trigger a background scrape (wakes up Render and starts scrapers)
+      fetch('/api/scrape', { method: 'POST' }).catch(() => {});
+      setTimeout(async () => {
+        await Promise.all([fetchStats(), fetchITJobs(), fetchAllJobsForCalendar()]);
+        if (state.activeTab === 'all-jobs') fetchAllJobs();
+        // If still no jobs, try once more after 30s
+        if (state.itTotal === 0) {
+          setTimeout(async () => {
+            await Promise.all([fetchStats(), fetchITJobs(), fetchAllJobsForCalendar()]);
+            if (state.activeTab === 'all-jobs') fetchAllJobs();
+          }, 30000);
+        }
+      }, 10000);
+    }
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
 })();
+

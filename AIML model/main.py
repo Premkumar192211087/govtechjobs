@@ -57,12 +57,14 @@ HEADERS = {
     "Accept-Language": "en-IN,en;q=0.9",
 }
 
-# Load ML ensemble
+# Load ML ensemble (graceful — service starts even without models)
 ensemble = GovJobsEnsemble(model_dir=os.path.join(PROJECT_ROOT, 'trained_models'))
 try:
     ensemble.load()
+    print("ML Ensemble loaded successfully")
 except Exception as e:
-    print(f"⚠️ ML models not loaded: {e}. Run train.py first. Using fallbacks.")
+    print(f"ML models not loaded: {e}. Using rule-based fallbacks.")
+    ensemble.is_loaded = True  # Allow service to run with fallback methods
 
 
 # ═══════════════════════════════════════════════════════════════

@@ -36,9 +36,17 @@ app.get('/api/health', (req, res) => {
 });
 
 // Manual scrape trigger
-app.post('/api/scrape', (req, res) => {
-  // TODO: Implement scraper triggering
-  res.json({ message: 'Scrape triggered', status: 'pending' });
+app.post('/api/scrape', async (req, res) => {
+  try {
+    const { runAllScrapers } = require('./scrapers/scheduler');
+    // Run scrapers in background, respond immediately
+    res.json({ message: 'Scrape triggered', status: 'running' });
+    runAllScrapers().catch(err => {
+      logger.error('Server', 'Manual scrape failed', { error: err.message });
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to trigger scrape', details: err.message });
+  }
 });
 
 // SPA fallback — serve index.html for all other routes

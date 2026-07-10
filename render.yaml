@@ -26,7 +26,5 @@ services:
       - key: SCRAPE_INTERVAL_HOURS
         value: 6
       - key: AI_SERVICE_URL
-        fromService:
-          name: govtechjobs-ai
-          type: web
-          property: host
+        value: https://govtechjobs-ai.onrender.com
+
