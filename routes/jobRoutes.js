@@ -79,39 +79,52 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-// POST /api/jobs/sync-ai — Call FastAPI ML model to scrape ALL 59+ portals
+// POST /api/jobs/sync-ai — Run Node scrapers + call FastAPI ML model for ALL 44+ portals
 router.post('/sync-ai', async (req, res) => {
   try {
     const axios = require('axios');
     const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
     
-    const response = await axios.post(`${AI_SERVICE_URL}/reload-notifications`, {}, {
-      timeout: 120000 // 2 minutes — scraping all portals takes time
-    });
-    
-    if (response.data && response.data.success && response.data.jobs) {
-      let savedCount = 0;
-      for (const job of response.data.jobs) {
-        try {
-          await db.saveJob(job);
-          savedCount++;
-        } catch (err) {
-          // Skip duplicates
-        }
-      }
-      return res.json({
-        success: true,
-        count: savedCount,
-        totalFound: response.data.total_jobs_found,
-        portalsScraped: response.data.total_portals_scraped,
-        errors: response.data.errors || []
+    // Step 1: Run Node scrapers first (fast, always works)
+    const { runAllScrapers } = require('../scrapers/scheduler');
+    const nodeResults = await runAllScrapers();
+    const nodeJobCount = nodeResults.reduce((sum, r) => sum + r.jobsFound, 0);
+
+    // Step 2: Call AI service for remaining 44+ portals
+    let aiJobCount = 0;
+    let aiErrors = [];
+    try {
+      const response = await axios.post(`${AI_SERVICE_URL}/reload-notifications`, {}, {
+        timeout: 600000 // 10 minutes — concurrent scraping of 44+ portals
       });
+      
+      if (response.data && response.data.success && response.data.jobs) {
+        for (const job of response.data.jobs) {
+          try {
+            await db.saveJob(job);
+            aiJobCount++;
+          } catch (err) {
+            // Skip duplicates
+          }
+        }
+        aiErrors = response.data.errors || [];
+      }
+    } catch (aiErr) {
+      console.error('AI Service sync failed (Node scrapers still ran):', aiErr.message);
     }
-    
-    res.json({ success: false, error: 'No jobs returned from AI Service' });
+
+    return res.json({
+      success: true,
+      count: nodeJobCount + aiJobCount,
+      totalFound: nodeJobCount + aiJobCount,
+      portalsScraped: 5 + 44, // Node + AI portals
+      nodeJobsFound: nodeJobCount,
+      aiJobsFound: aiJobCount,
+      errors: aiErrors
+    });
   } catch (err) {
-    console.error('Error syncing with AI service:', err.message);
-    res.status(500).json({ error: 'AI Service Sync failed', details: err.message });
+    console.error('Error syncing:', err.message);
+    res.status(500).json({ error: 'Sync failed', details: err.message });
   }
 });
 

@@ -379,19 +379,37 @@ def extract_from_pdf(req: PdfRequest):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
-
 @app.post("/reload-notifications")
 def reload_notifications():
-    """Scrape ALL registered portals using ML ensemble."""
+    """Scrape ALL registered portals using ML ensemble (concurrent)."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import threading
+    
     all_jobs = []
     errors = []
+    lock = threading.Lock()
 
-    for portal in PORTAL_REGISTRY:
+    def scrape_one(portal):
+        """Scrape a single portal (thread-safe)."""
         try:
             jobs = scrape_portal_with_ml(portal)
-            all_jobs.extend(jobs)
+            return {"portal": portal["org"], "jobs": jobs, "error": None}
         except Exception as e:
-            errors.append({"portal": portal["org"], "error": str(e)})
+            return {"portal": portal["org"], "jobs": [], "error": str(e)}
+
+    # Scrape portals concurrently — 8 at a time
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {executor.submit(scrape_one, p): p for p in PORTAL_REGISTRY}
+        for future in as_completed(futures, timeout=300):  # 5 min total timeout
+            try:
+                result = future.result(timeout=30)  # 30s per portal
+                if result["error"]:
+                    errors.append({"portal": result["portal"], "error": result["error"]})
+                else:
+                    all_jobs.extend(result["jobs"])
+            except Exception as e:
+                portal = futures[future]
+                errors.append({"portal": portal["org"], "error": str(e)})
 
     # Deduplicate
     seen = set()
@@ -409,3 +427,4 @@ def reload_notifications():
         "errors": errors,
         "jobs": unique_jobs,
     }
+

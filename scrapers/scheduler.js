@@ -1,6 +1,6 @@
 /**
  * Scraper Scheduler — orchestrates all scrapers using node-cron.
- * Runs Node.js scrapers + calls FastAPI AI service for ALL 59+ portals.
+ * Runs Node.js scrapers + calls FastAPI AI service for ALL 44+ portals.
  */
 
 const cron = require('node-cron');
@@ -17,46 +17,55 @@ const IsroScraper = require('./isroScraper');
 const scrapers = [UpscScraper, CdacScraper, SscScraper, IbpsScraper, IsroScraper];
 
 /**
- * Call the FastAPI AI service to scrape ALL registered portals (covers 59+ portals)
+ * Call the FastAPI AI service to scrape ALL registered portals (covers 44+ portals)
+ * Retries up to 3 times with 30s delay between attempts (handles cold starts)
  */
-async function syncFromAIService() {
-  try {
-    const axios = require('axios');
-    const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
-    
-    logger.info('Scheduler', 'Calling FastAPI AI service for full portal scrape...');
-    const response = await axios.post(`${AI_SERVICE_URL}/reload-notifications`, {}, {
-      timeout: 600000 // 10 minutes — scraping 45+ portals takes time
-    });
-    
-    if (response.data && response.data.success && response.data.jobs) {
-      let savedCount = 0;
-      for (const job of response.data.jobs) {
-        try {
-          await db.saveJob(job);
-          savedCount++;
-        } catch (err) {
-          // Skip duplicates silently
+async function syncFromAIService(retries = 3) {
+  const axios = require('axios');
+  const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
+
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      logger.info('Scheduler', `Calling AI service for full portal scrape (attempt ${attempt}/${retries})...`);
+      const response = await axios.post(`${AI_SERVICE_URL}/reload-notifications`, {}, {
+        timeout: 600000 // 10 minutes — concurrent scraping of 44+ portals
+      });
+
+      if (response.data && response.data.success && response.data.jobs) {
+        let savedCount = 0;
+        for (const job of response.data.jobs) {
+          try {
+            await db.saveJob(job);
+            savedCount++;
+          } catch (err) {
+            // Skip duplicates silently
+          }
         }
+        logger.info('Scheduler', `AI Service returned ${response.data.total_jobs_found} jobs, saved ${savedCount} new entries`);
+
+        if (response.data.errors && response.data.errors.length > 0) {
+          logger.warn('Scheduler', `AI Service had ${response.data.errors.length} portal errors`, {
+            errors: response.data.errors.slice(0, 5).map(e => `${e.portal}: ${e.error}`).join(', ')
+          });
+        }
+        return; // Success — exit retry loop
       }
-      logger.info('Scheduler', `AI Service returned ${response.data.total_jobs_found} jobs, saved ${savedCount} new entries`);
-      
-      if (response.data.errors && response.data.errors.length > 0) {
-        logger.warn('Scheduler', `AI Service had ${response.data.errors.length} portal errors`, {
-          errors: response.data.errors.map(e => `${e.portal}: ${e.error}`).join(', ')
-        });
+    } catch (err) {
+      logger.warn('Scheduler', `AI Service attempt ${attempt}/${retries} failed`, { error: err.message });
+      if (attempt < retries) {
+        logger.info('Scheduler', `Waiting 30s before retry...`);
+        await new Promise(resolve => setTimeout(resolve, 30000));
       }
     }
-  } catch (err) {
-    logger.warn('Scheduler', `AI Service unavailable (will use Node scrapers only)`, { error: err.message });
   }
+  logger.warn('Scheduler', 'AI Service sync failed after all retries (Node scrapers still active)');
 }
 
 /**
  * Run all registered Node.js scrapers
  */
 async function runAllScrapers() {
-  logger.info('Scheduler', `Starting scrape cycle — ${scrapers.length} Node scrapers + AI service`);
+  logger.info('Scheduler', `Starting scrape cycle — ${scrapers.length} Node scrapers`);
 
   const results = [];
   for (const ScraperClass of scrapers) {
@@ -78,20 +87,25 @@ async function runAllScrapers() {
     await new Promise(resolve => setTimeout(resolve, 3000));
   }
 
-  // Also call FastAPI AI service for the remaining portals
-  await syncFromAIService();
-
   const successful = results.filter(r => r.status === 'success').length;
   const failed = results.filter(r => r.status === 'error').length;
   const totalJobs = results.reduce((sum, r) => sum + r.jobsFound, 0);
 
-  logger.info('Scheduler', 'Scrape cycle complete', {
+  logger.info('Scheduler', 'Node scrape cycle complete', {
     nodeScrapersSuccessful: successful,
     nodeScrapersFailed: failed,
     nodeJobsFound: totalJobs
   });
 
   return results;
+}
+
+/**
+ * Full scrape cycle: Node scrapers + AI service
+ */
+async function runFullScrape() {
+  await runAllScrapers();
+  await syncFromAIService();
 }
 
 /**
@@ -103,11 +117,18 @@ function initScheduler() {
 
   cron.schedule(cronExpression, async () => {
     logger.info('Scheduler', `Scheduled scrape triggered (every ${interval} hours)`);
-    await runAllScrapers();
+    await runFullScrape();
   });
 
   logger.info('Scheduler', `Initialized — scraping every ${interval} hours`);
-  logger.info('Scheduler', `${scrapers.length} Node scrapers + FastAPI AI service registered`);
+  logger.info('Scheduler', `${scrapers.length} Node scrapers + FastAPI AI service (44+ portals) registered`);
+
+  // Delayed AI sync on startup — give AI service 90s to boot on Render free tier
+  setTimeout(async () => {
+    logger.info('Scheduler', 'Running delayed AI service sync (startup)...');
+    await syncFromAIService(3);
+  }, 90000);
 }
 
-module.exports = { initScheduler, runAllScrapers, syncFromAIService };
+module.exports = { initScheduler, runAllScrapers, runFullScrape, syncFromAIService };
+
